@@ -268,8 +268,8 @@ a:focus {
     background: url(../img/pattern-doak.png);
     background-repeat: repeat-y repeat-x;
     background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
     background-size: auto;
     -o-background-size: auto;
 }
