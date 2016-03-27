@@ -1,5 +1,5 @@
 ---
-title:Lazy Initialization (Swift)
+title: Lazy Initialization (Swift)
 ---
 
 ###Lazy initialization
