@@ -1,179 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: page
+tagline:
+---
 
-<head>
+{% for post in paginator.posts %}
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="blog, portfolio, mobile, software developer, mobile app developer, application developer, computer engineer, cinematography, short movies, video shooting, promotional videos, promo vidoes">
-    <meta name="keywords" content="blog, portfolio, mobile, software developer, mobile app developer, application developer, montreal  mobile developer, montreal iOS app developer, computer engineer, canada mobile developer, canada iOS developer, cinematography, short videos, video shooting, promotional videos, promo vidoes">
-    <meta name="author" content="Tarang Patel, tpatel, tarangp">
-    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<article class="home">
 
-    <title>TARANG PATEL</title>
+  <span class="post-date">
+    {% assign d = post.date | date: "%d" | plus:'0' %}
+    {{ post.date | date: "%B" }}
+    {% case d %}
+    {% when 1 or 21 or 31 %}{{ d }}st,
+    {% when 2 or 22 %}{{ d }}nd,
+    {% when 3 or 23 %}{{ d }}rd,
+    {% else %}{{ d }}th,
+    {% endcase %}
+    {{ post.date | date: "%Y" }}
+  </span>
 
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+  <h2>
+    <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+  </h2>
 
-    <!-- Custom CSS -->
-    <link href="css/grayscale.css" rel="stylesheet">
+  <div>
+    {% if post.fullview %}
+    {{ post.content }}
+    {% else %}
+    {% if post.shortinfo %}
+    {{ post.shortinfo }}
+    {% elsif post.description %}
+    {{ post.description }}
+    {% else %}
+    {{ post.excerpt }}
+    {% endif %}
+    {% endif %}
+  </div>
 
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+</article>
+{% endfor %}
+<hr/>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+<ul class="pager"> 
 
-</head>
+  {% if paginator.previous_page %}
+  <li class="previous">
+    {% if paginator.previous_page == 1 %}
+    <a href="{{ site.BASE_PATH }}/">&larr; Newer</a>
+    {% else %}
+    <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.previous_page }}">&larr; Newer</a>
+    {% endif %}
+  </li>
+  {% else %}
+  <li class="previous disabled">
+    <a>&larr; Newer</a>
+  </li>
+  {% endif %}
+  
+  <li>
+    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  </li>
 
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.next_page }}">Older &rarr;</a>
+  </li>
+  {% else %}
+  <li class="next disabled">
+    <a>Older &rarr;</a>        
+  </li>
+  {% endif %}
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i>  <span class="light">TARANG</span>PATEL
-                </a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
-    <!-- Intro Header -->
-    <header class="intro">
-        <div class="intro-body">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">T.PATEL</h1>
-                        <p class="intro-text">Computer Engineer, Mobile App Developer and Artist<br></p>
-                        <a href="#about" class="btn btn-circle page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <!-- About Section -->
-    <section id="about" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>About Me</h2>
-                <p>I am a software engineer by profession focusing on mobile technologies like iOS, Android, Cloud and IoT. I keep up-to-date with all the latest trends in technology from Big Data and IoT to Wearables.</p> 
-                <p></p>When I am out of digital world I enjoy photography and videography. I like to go places, capture moments and get unwind. A movie freak and a foodies I enjoy simple things in life.</p> 
-            </div>
-        </div>
-    </section>
-
-    <!-- Download Section -->
-    <section id="portfolio" class="content-section text-center">
-        <div class="download-section">
-            <div class="container">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Portfolio</h2>
-                    <p>Here are some of my latest and great works</p>
-                    <h3>Mobile Apps</h3>
-                    <a href="https://itunes.apple.com/us/app/mukesh-jewellers/id563738492?mt=8" class="btn btn-default btn-lg" target="_blank">Mukesh - Jewellery Application for iOS</a>
-                   <br><br><br><br>
-                    <h3>Photography</h3>
-                    <a href="https://500px.com/tarangp" class="btn btn-default btn-lg" target="_blank">500px</a>
-                    <a href="https://instagram.com/tarang5/" class="btn btn-default btn-lg" target="_blank">Instagram</a>
-                   <br><br><br><br>
-                    <h3>Videography</h3>
-                    <a href="https://itunes.apple.com/us/app/jamsnap-add-sounds-to-your/id767330177?mt=8" class="btn btn-default btn-lg" target="_blank">JamSnap - add sounds to your photos!</a>
-                    <p>An app by a friend of mine. I shot a short promo video along with my friend.</p>
-                    <iframe width=100% height="400" src="https://www.youtube.com/embed/ySrP9BOuCFk" frameborder="2" allowfullscreen></iframe>
-                   <br><br><br><br>
-                    <a href="https://itunes.apple.com/us/app/id914303389" class="btn btn-default btn-lg" target="_blank">ProductPlay - Video Review</a>
-                    <p>A video review app by a friend of mine. Second promo video project I shot along with my friend.</p>
-                    <iframe width=100% height="400" src="https://www.youtube.com/embed/-DQH52YCpIg" frameborder="2" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Contact Section -->
-    <section id="contact" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Me</h2>
-                <p>I would love to work, consult or share knowledge with you. Feel free to contact me for any mobile application projects, video projects or to just say hello!</p>
-                <p><a href="mailto:tarangpatel2@yahoo.co.in">tarangpatel2@yahoo.co.in</a>
-                </p>
-            <!--    <ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
-                </ul> -->
-            </div>
-        </div>
-    </section>
-
-    <!-- Map Section -->
-    <div id="map"></div>
-
-    <!-- Footer -->
-    <footer>
-        <div class="container text-center">
-            <p>Copyright &copy; Tarang Patel 2015</p>
-        </div>
-    </footer>
-
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="js/jquery.easing.min.js"></script>
-
-    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="js/grayscale.js"></script>
-
-</body>
-
-</html>
+</ul>
