@@ -1,8 +1,8 @@
 # User Settings | Edit there as per required
 
 title: TarangPatel
-url: "http://tarangpatel.github.io/tarangp"
-baseurl: "http://tarangpatel.github.io/tarangp"
+url: "http://tarangpatel.github.io/"
+baseurl: "tarangp"
 
 # This will show up at the top of index page
 site_heading: >
