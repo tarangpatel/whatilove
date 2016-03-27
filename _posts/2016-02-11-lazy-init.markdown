@@ -1,0 +1,7 @@
+---
+title:Lazy Initialization (Swift)
+---
+
+###Lazy initialization
+
+http://mikebuss.com/2014/06/22/lazy-initialization-swift/

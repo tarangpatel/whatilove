@@ -1,0 +1,6 @@
+---
+title: Generics in Swift
+---
+
+# Generics
+
