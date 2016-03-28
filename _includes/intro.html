@@ -2,7 +2,7 @@
     <div id="intro">
         <div class="container">
             {% if site.profile_picture %}
-                <img id="intro-img" src="{{ site.profile_picture }}">
+                <img id="intro-img" src="http://www.gravatar.com/avatar/{{ site.email_md5 }}?s=200">
             {% endif %}
             <h2>
                 {% if site.site_heading %}
