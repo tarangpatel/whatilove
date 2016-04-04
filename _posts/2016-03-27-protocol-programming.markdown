@@ -13,7 +13,7 @@ POP: Protocol Oriented Programing
 
 
 
-#### Protocol Extension Limitations
+#### Protocol Extension Limitations [1]
 
 * Cannot call protocol extension members from Objective-C.
 * Cannot use the where clause with a struct type.
@@ -29,3 +29,7 @@ POP: Protocol Oriented Programing
 * Optional protocol methods require the @objc tag, which cannot be used together with a protocol extension.
 * Cannot declare a protocol & its extension at the same time.
 * It would be nice to be able to declare extension protocol SomeProtocol {} to simultaneously declare the protocol and implement the extension, since protocols don't always have any members when the extension contains all of the important logic.
+
+
+Resources:
+[1] * [POP - UIKit](https://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit)
