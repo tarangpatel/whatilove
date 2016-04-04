@@ -40,7 +40,7 @@ var center: Point {
 {% endhighlight %}
 
 
-#### Read-Only Computed Properties
+##### Read-Only Computed Properties
 A computed property with a getter but no setter is known as a read-only computed property.
 
 {% highlight swift %}
