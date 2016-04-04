@@ -7,7 +7,9 @@ title: Guard Statement
 > GRAMMAR OF A BRANCH STATEMENT
 > 
 > branch-statement → if-statement­
+>
 > **branch-statement → guard-statement­** 
+>
 > branch-statement → switch-statement­ 
 
 
