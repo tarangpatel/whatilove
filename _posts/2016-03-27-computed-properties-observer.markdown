@@ -2,7 +2,7 @@
 title: Advance Properties in Swift
 ---
 
-# Computed Properties
+#Computed Properties
 
 * Use only var
 
@@ -39,7 +39,7 @@ var center: Point {
 
 ```
 
-## Read-Only Computed Properties
+### Read-Only Computed Properties
 A computed property with a getter but no setter is known as a read-only computed property.
 
 ```swift
@@ -58,8 +58,8 @@ Property observers observe and respond to changes in a property’s value. Prope
 
 You have the option to define either or both of these observers on a property:
 
-..* willSet is called just before the value is stored.
-..* didSet is called immediately after the new value is stored.
+* willSet is called just before the value is stored.
+* didSet is called immediately after the new value is stored.
 
 ```swift
 class StepCounter {
