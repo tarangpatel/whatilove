@@ -3,12 +3,11 @@ title: Advance Properties in Swift
 ---
 
 ## Computed Properties
-
 * Use only var
 
 They provide a getter and an optional setter to retrieve and set other properties and values indirectly.
 
-{% highlight text %}
+```swift
 var center: Point {
         get {
             let centerX = origin.x + (size.width / 2)
@@ -20,11 +19,11 @@ var center: Point {
             origin.y = newCenter.y - (size.height / 2)
         }
 
-{% endhighlight %}
+```
 
 or Shorthand Setter Declaration where if a computed property’s setter does not define a name for the new value to be set, a default name of 'newValue' is used.  
 
-{% highlight text %}
+```swift
 
 var center: Point {
         get {
@@ -37,17 +36,17 @@ var center: Point {
             origin.y = newValue.y - (size.height / 2)
         }
 
-{% endhighlight %}
+```
 
 #### Read-Only Computed Properties
 A computed property with a getter but no setter is known as a read-only computed property.
 
-{% highlight text %}
+```swift
 var volume: Double {
         return width * height * depth
     }
 
-{% endhighlight %}
+```
 
 
 
@@ -61,7 +60,7 @@ You have the option to define either or both of these observers on a property:
 * willSet is called just before the value is stored.
 * didSet is called immediately after the new value is stored.
 
-{% highlight text %}
+```swift
 class StepCounter {
     var totalSteps: Int = 0 {
         willSet(newTotalSteps) {
@@ -75,15 +74,15 @@ class StepCounter {
     }
 }
 
-{% endhighlight %}
+```
 
 ## Type Properties
 
-{% highlight text %}
+```swift
 
 static var storedTypeProperty = "Some value."
     static var computedTypeProperty: Int {
         return 1
     }
 
-{% endhighlight %}
+```
