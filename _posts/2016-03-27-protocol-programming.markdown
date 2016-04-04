@@ -2,7 +2,7 @@
 title: Protocol Oriented Programing (Swift) 
 ---
 
-POP: Protocol Oriented Programing
+### Articles
 
 * [Apple - WWDC 2015](https://developer.apple.com/videos/play/wwdc2015/408/)
 * [Into to POP in Swift 2 - Ray Wenderlich](https://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2)
