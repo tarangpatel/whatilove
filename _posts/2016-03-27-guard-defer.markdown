@@ -6,11 +6,11 @@ title: Guard Statement
 
 > GRAMMAR OF A BRANCH STATEMENT
 > 
-> branch-statement → if-statement­
+> *branch-statement → if-statement­*
 >
-> **branch-statement → guard-statement­** 
+> **_branch-statement → guard-statement­_** 
 >
-> branch-statement → switch-statement­ 
+> *branch-statement → switch-statement­* 
 
 
 
