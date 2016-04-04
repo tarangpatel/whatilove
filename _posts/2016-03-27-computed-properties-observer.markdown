@@ -2,13 +2,13 @@
 title: Advance Properties in Swift
 ---
 
-#Computed Properties
+## Computed Properties
 
 * Use only var
 
 They provide a getter and an optional setter to retrieve and set other properties and values indirectly.
 
-```swift
+{% highlight text %}
 var center: Point {
         get {
             let centerX = origin.x + (size.width / 2)
@@ -20,11 +20,11 @@ var center: Point {
             origin.y = newCenter.y - (size.height / 2)
         }
 
-```
+{% endhighlight %}
 
 or Shorthand Setter Declaration where if a computed property’s setter does not define a name for the new value to be set, a default name of 'newValue' is used.  
 
-```swift
+{% highlight text %}
 
 var center: Point {
         get {
@@ -37,21 +37,21 @@ var center: Point {
             origin.y = newValue.y - (size.height / 2)
         }
 
-```
+{% endhighlight %}
 
-### Read-Only Computed Properties
+#### Read-Only Computed Properties
 A computed property with a getter but no setter is known as a read-only computed property.
 
-```swift
+{% highlight text %}
 var volume: Double {
         return width * height * depth
     }
 
-```
+{% endhighlight %}
 
 
 
-# Property Observer
+## Property Observer
 
 Property observers observe and respond to changes in a property’s value. Property observers are called every time a property’s value is set, even if the new value is the same as the property’s current value.
 
@@ -61,7 +61,7 @@ You have the option to define either or both of these observers on a property:
 * willSet is called just before the value is stored.
 * didSet is called immediately after the new value is stored.
 
-```swift
+{% highlight text %}
 class StepCounter {
     var totalSteps: Int = 0 {
         willSet(newTotalSteps) {
@@ -75,15 +75,15 @@ class StepCounter {
     }
 }
 
-```
+{% endhighlight %}
 
-# Type Properties
+## Type Properties
 
-```swift
+{% highlight text %}
 
 static var storedTypeProperty = "Some value."
     static var computedTypeProperty: Int {
         return 1
     }
 
-```
+{% endhighlight %}
