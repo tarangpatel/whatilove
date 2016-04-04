@@ -2,6 +2,6 @@
 title: Lazy Initialization (Swift)
 ---
 
-### Lazy initialization
+### Article
 
 [Lazy Initialization - Mike Buss](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
