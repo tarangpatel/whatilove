@@ -4,11 +4,11 @@ title: Guard Statement
 
 ### Articles
 
->GRAMMAR OF A BRANCH STATEMENT
->
->branch-statement → if-statement­ 
->**branch-statement → guard-statement­** 
->branch-statement → switch-statement­ 
+> GRAMMAR OF A BRANCH STATEMENT
+> 
+> branch-statement → if-statement­ 
+> **branch-statement → guard-statement­** 
+> branch-statement → switch-statement­ 
 
 
 * [Guard & Defer - NSHipster](http://nshipster.com/guard-and-defer/)
