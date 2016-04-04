@@ -13,7 +13,7 @@ title: Protocol Oriented Programing (Swift)
 
 
 
-#### Protocol Extension Limitations [1]
+#### Protocol Extension Limitations <sup>[1]</sup>
 
 * Cannot call protocol extension members from Objective-C.
 * Cannot use the where clause with a struct type.
