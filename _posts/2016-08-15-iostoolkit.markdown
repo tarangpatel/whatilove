@@ -41,7 +41,7 @@ Tools:
     Editor](https://tickplant.com/powerjsoneditor/), [JSON
     Lint](http://jsonlint.com/)
 
-Services: 
+Services:
 ==========
 
 -   App Distribution: [Fabric](https://get.fabric.io/),
@@ -61,7 +61,7 @@ Services:
 
 -   [Gitignore.io](https://www.gitignore.io/)
 
-Frameworks: 
+Frameworks:
 ============
 
 -   Networking: [Alamofire](https://github.com/Alamofire/Alamofire)
@@ -71,7 +71,7 @@ Frameworks:
 -   Database: [Realm](https://realm.io), [Core
     Data](https://developer.apple.com/library/watchos/documentation/Cocoa/Conceptual/CoreData/index.html)
 
-Blogs & Resources: 
+Blogs & Resources:
 ===================
 
 -   [Apple Developer](https://developer.apple.com/develop/)
