@@ -1,5 +1,6 @@
 ---
 title: Algorithms and Data Structures
+published: true
 ---
 
 Abstract:
@@ -18,4 +19,8 @@ Data structures in iOS already take into consideration best possible algorithms 
 
 But sometimes that is not enough. When looking into popular apps like Facebook, Amazon, WhatsApp, Instagram etc... you will they implement complex data structures and algorithms.
 
-In this post and the following ones I will mainly write about Algorithms and Data Structures in mobile development which I am currently learning by practicing.
+Following are some great resources to learn about algorithms and data structres in Swift and iOS in general. 
+
+- [Swift Algorithm Club by Ray Wenderlich](https://github.com/raywenderlich/swift-algorithm-club "Swift Algorithm Club"): This is one the best reposiroty for collection of Algorithms and Data Structures explaination and examples.
+- [Algorithms & Data Structures with Swift](http://waynewbishop.com/swift/ "Algorithms & Data Structures with Swift"): Wayne Bishop worte a book on it. 
+
