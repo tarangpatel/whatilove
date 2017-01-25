@@ -2,6 +2,8 @@
 title: iOS Development Toolkit
 ---
 
+Following are some of the most used tools in my application development. I will keep updating as I discover new ones and imeplement in any of my project.
+
 IDE:
 ====
 
@@ -51,9 +53,13 @@ Services:
 
 -   Support: [Smooch](https://smooch.io/)
 
--   Analytics:
-    [Google](https://developers.google.com/analytics/devguides/collection/ios/v3/),
+-   Analytics, Push Notification, Authentication, etc.. :
+    [Firebase](https://firebase.google.com/features/)
+    [AWS: Amazon Web Services](https://aws.amazon.com/)
+    [Facebook](https://analytics.facebook.com/)
     [Mixpanel](https://mixpanel.com/?from=adwords_mobile&gclid=Cj0KEQjw0MW9BRDxtYTn2_S699MBEiQAw33y45tl_fNp2ZkthVvwBYjHwqEEr3jAidupblqM4HlYBLcaAkBy8P8HAQ)
+    [HEAP](https://heapanalytics.com/)
+    [Segment](https://segment.com/)
 
 -   Project Management:
     [Jira](https://www.atlassian.com/software/jira?_mid=e635c4b9e83565ffdffb03ce62ea9de9&aceid=&adposition=1t1&adgroup=9124126102&campaign=189395542&creative=102960103582&device=c&keyword=jira&matchtype=e&network=g&placement=&gclid=Cj0KEQjw0MW9BRDxtYTn2_S699MBEiQAw33y42Yddacwu3oaeFzfIcPO6XQsI-JqUGRxQOo1uxeARJgaAtDf8P8HAQ),
@@ -70,6 +76,12 @@ Frameworks:
 
 -   Database: [Realm](https://realm.io), [Core
     Data](https://developer.apple.com/library/watchos/documentation/Cocoa/Conceptual/CoreData/index.html)
+
+-   Reactive Funcational Programming: [RxSwift and RxCocoa](http://reactivex.io/), [ReactiveCocoa and Reactive Swift](https://github.com/ReactiveCocoa/ReactiveSwift), [PromiseKit](http://promisekit.org/)
+
+-   JSON Parsing & Mapping: [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper), [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON), 
+
+-   Extensions: [Ueful Swift extensions](https://github.com/iAugux/Swift-Extensions)
 
 Blogs & Resources:
 ===================
@@ -95,3 +107,5 @@ Blogs & Resources:
 -   [Use your loaf](http://useyourloaf.com/)
 
 -   Techtopia
+
+If you want to see an exhaustive list of all the resourses [awsome-ios](https://github.com/vsouza/awesome-ios) maintains very well. 
