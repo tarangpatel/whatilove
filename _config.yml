@@ -68,6 +68,7 @@ markdown: kramdown
 gems:
     - jekyll-paginate
     - jekyll-redirect-from
+    - jemoji
 
 sass:
     style: compressed
