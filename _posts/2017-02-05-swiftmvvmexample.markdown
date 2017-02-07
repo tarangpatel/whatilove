@@ -1,5 +1,5 @@
 ---
-title: Swift: MVVM
+title: Swift - MVVM
 published: true
 ---
 
