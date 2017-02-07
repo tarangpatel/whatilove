@@ -29,11 +29,13 @@ In this post I will implement something like following:
 
 > MVVM + Coordinator or Navigator + Store
 
-![Figure 1: MVVMS pattern]("images/MVVMS.png")
+![Figure 1: MVVMS pattern]("../images/MVVMS.png")
 
 I have taken the concept of "Store" from the book [iOS Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/ios-programming/) which introduced the pattern **MVCS** (Model-View-Controller-Store). In our case the pattern will be **MVVMCS** to be more specific.
 
 I will be using the API from [TMDB](https://www.themoviedb.org/documentation/api?language=en) for my backend communication.
+
+Here first I will be taking non Reactive approach and later will compare and implement Reactive framework to see how it can improve our application.
 
 ### Models
 {% highlight swift %}
@@ -75,6 +77,8 @@ Here we have used [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) to m
 
 Ok for the first view I will go with storyboard initialization and associate VM with the VC directly. I know this is not the proper MVVM way to do it.
 
+{% highlight swift %}
+
     class HomeViewController: UIViewController {
 
         @IBOutlet weak var tableView: UITableView!
@@ -85,7 +89,11 @@ Ok for the first view I will go with storyboard initialization and associate VM 
 
         ...
 
+{% endhighlight %}
+
 But for the second VC which is MovieDetailViewController we will set its VM using property based DI.
+
+{% highlight swift %}
 
     class MovieDetailViewController: UIViewController, ViewControllerProtocol {
 
@@ -96,11 +104,17 @@ But for the second VC which is MovieDetailViewController we will set its VM usin
         }
         ...
 
+{% endhighlight %}
+
 Now you might be wondering what is **ViewControllerProtocol**. This is the protocol that every view controller can implement to make sure its view model is set.
+
+{% highlight swift %}
 
     protocol ViewControllerProtocol {
         var viewModel: ViewModelProtocol! { get set }
     }
+
+{% endhighlight %}
 
 Its benefit will be cleared more in app navigation or transitioning between views.
 
@@ -113,12 +127,17 @@ Now here I can use binding frameworks to bind my views with the view model. Any 
 The simplest way I can bind is using closure. For eg:
 In VC I can say:
 
+{% highlight swift %}
+
     self.viewModel.movieListLoaded = { [unowned self] _ in
       self.tableView.reloadData()      
     }
 
+{% endhighlight %}
+
 And in VM I have:
 
+{% highlight swift %}
     ...
 
     var movieListLoaded: (()->())
@@ -130,9 +149,13 @@ And in VM I have:
                 self.movieListLoaded()
     ...
 
+{% endhighlight %}
+
 But this can be too much sometimes. There is lot of code to implement. Also we should listen to some property change.
 
 For that reason I like the implementation of Dynamic class which is explained nicely by [Srdan Rasic](http://rasic.info/bindings-generics-swift-and-mvvm/)
+
+{% highlight swift %}
 
     class Dynamic<T> {
         typealias Listener = (T) -> Void
@@ -158,7 +181,11 @@ For that reason I like the implementation of Dynamic class which is explained ni
         }
     }
 
+{% endhighlight %}
+
 So now our **MovieListViewModel** will look like:
+
+{% highlight swift %}
 
     protocol MovieListProtocol: ViewModelProtocol {
 
@@ -179,27 +206,41 @@ So now our **MovieListViewModel** will look like:
         var totalPages: Dynamic<Int>
         var totalResults: Dynamic<Int>
 
+{% endhighlight %}
+
 And since it is owned by first view controller the init method is:
+
+{% highlight swift %}
+
     init() {
             self.dates = Dynamic([String: Any]())
             self.page = Dynamic(0)
             self.totalResults = Dynamic(0)
             self.totalPages = Dynamic(0)
         }
+{% endhighlight %}
 
 Now binding is very easy just add this to VC:
+
+{% highlight swift %}
+
     // Binding code
     self.viewModel.page.bindAndFire { [unowned self] page in
         if page > 0 {
             self.tableView.reloadData()
         }
     }
+
+{% endhighlight %}    
+
 Here we are listening to "page" property.
 
 
 ## Store
 
 Store can be a simple struct or a class. For simplicity I kept it struct.
+
+{% highlight swift %}
 
     struct MovieListStore {        
         func getMovies(_ apiType: MovieApiType, callback:@escaping (Result<Movies>) -> Void) {            
@@ -209,14 +250,17 @@ Store can be a simple struct or a class. For simplicity I kept it struct.
             }
         }
     }
+{% endhighlight %}
 
-In out VM we can call store like
+In out VM we can call store like:
 
+{% highlight swift %}
     let movieListStore = MovieListStore()
 
     self.movieListStore.getMovies(apiType) { [unowned self] response in
       ...
     }
+{% endhighlight %}
 
 **Store** contains the storage logic. Some application cache or stores data on the device. So in accordance with single responsibility principle and to make code more testable a separate module is created called Store.
 
@@ -224,6 +268,7 @@ In out VM we can call store like
 
 This is a class which takes care of all the network related activity. I have used [Alamofire](https://github.com/Alamofire/Alamofire) for conducting all network related operations. You can also combine Alamofire with ObjectMapper using [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper). But here I will just map it manually.
 
+{% highlight swift %}
     final class NetworkService: Gettable  {
 
     func get(apiUrl: ApiProtocol, request: AnyObject?, completion: @escaping (Result<Movies>) -> Void) {
@@ -244,6 +289,7 @@ This is a class which takes care of all the network related activity. I have use
               }              
           }      
     }
+{% endhighlight %}
 
 For more information on "Gettable" protocol checkout [Protocol-Oriented-Networking in Swift](https://www.natashatherobot.com/protocol-oriented-networking-in-swift/). This has very specific implementation. So it can be avoided and go with simple networking.
 
@@ -251,6 +297,7 @@ For more information on "Gettable" protocol checkout [Protocol-Oriented-Networki
 
 Here I have taken the very simplest case of app navigation i.e to go from one view to another. This is the simplest way of doing navigation. I will explore more on this.
 
+{% highlight swift %}
     enum NavigationType {
 
         case push
@@ -295,7 +342,7 @@ Here I have taken the very simplest case of app navigation i.e to go from one vi
         }
 
     }   
-
+{% endhighlight %}
 
 This is an ongoing project where I will keep improving the code based on feedbacks and comments.
 So please feel free to give your thoughts.
