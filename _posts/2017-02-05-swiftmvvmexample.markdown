@@ -301,3 +301,10 @@ This is an ongoing project where I will keep improving the code based on feedbac
 So please feel free to give your thoughts.
 
 I am also going to add unit tests to the project to learn about adding test cases, mocking and code coverage.
+
+#### Resources
+
+1. [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.yp5ycgz8b)
+2. [MVVM and Coordinator pattern together](https://medium.com/@giovannyorozco24/mvvm-and-coordinator-pattern-together-8920fc0f1f55#.d4qx1ko01)
+3. [Bindings, Generics, Swift and MVVM](http://rasic.info/bindings-generics-swift-and-mvvm/)
+4. [Beyond MVC - better application architecture with Swift](https://github.com/swift-mtl/2017-02-02)
