@@ -291,7 +291,7 @@ This is a class which takes care of all the network related activity. I have use
     }
 {% endhighlight %}
 
-For more information on "Gettable" protocol checkout [Protocol-Oriented-Networking in Swift](https://www.natashatherobot.com/protocol-oriented-networking-in-swift/). This has very specific implementation. So it can be avoided and go with simple networking.
+For more information on "Gettable" protocol checkout [Protocol-Oriented-Networking in Swift](https://www.natashatherobot.com/protocol-oriented-networking-in-swift/). It is good practice to implement protocols as it will later allow us to create mocks for testing.
 
 ## Coordinator or App Navigator
 
