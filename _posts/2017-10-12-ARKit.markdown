@@ -1,0 +1,13 @@
+---
+title: ARKit: Resources 
+---
+
+- Get 3D Models: [SketchFab](https://sketchfab.com/), [TurboSquid](https://www.turbosquid.com/)
+- Beginner Tutorial: [Ray Wenderlich](https://www.raywenderlich.com/172543/augmented-reality-and-arkit-tutorial)
+- Drawing detection : [Toptal](https://www.toptal.com/swift/ios-arkit-tutorial-drawing-in-air-with-fingers)
+- Measure: [How to Measure Objects With ARKit](https://virtualrealitypop.com/ios-11-tutorial-how-to-measure-objects-with-arkit-743d2ec78afc)
+- Curated List: [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit)
+- With SceneKit: [ARKit and Scenekit](https://blog.pusher.com/building-an-ar-app-with-arkit-and-scenekit/)
+- With SpriteKit: [ARKit and Spritekit](https://blog.pusher.com/building-ar-game-arkit-spritekit/)
+- Documentation: https://developer.apple.com/arkit/
+
