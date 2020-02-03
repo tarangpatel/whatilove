@@ -16,42 +16,32 @@ title: Create PEM Certificate
 
 6. Convert certificate .p12 file into .pem file
 
-    {% highlight bash %}
-
+    ```
     openssl pkcs12 -clcerts -nokeys -out apns-cert.pem -in apns-cert.p12
-
-    {% endhighlight %}
-     
+    ```
     When prompted for a password, simply press enter since no password should have been given when exporting
     from keychain.
 
 7. Convert key .p12 file into .pem file:
 
-    {% highlight bash %}
-
+    ```
     openssl pkcs12 -nocerts -out apns-key.pem -in apns-key.p12
-
-    {% endhighlight %}  
-
+    ```
     When prompted for a password, simply press enter since no password should have been given when exporting
     from keychain. When prompted to "Enter PEM pass phrase", enter pass phrase of your choice, e.g. 1234.
 
 8. Remove encryption from key .pem file:
 
-    {% highlight bash %}
-
+    ```
     openssl rsa -in apns-key.pem -out apns-key-noenc.pem
-
-    {% endhighlight %}  
+    ```
 
     Enter pass phrase from previous step when prompted to "Enter pass phrase".
 
 9. Merge certificate and key .pem file into one single .pem file:
     
-    {% highlight bash %}
-
+    ```
     cat apns-cert.pem apns-key-noenc.pem > apns-prod.pem
-    
-    {% endhighlight %}  
+    ```
 
 10. Upload to online services that will require it.
