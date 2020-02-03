@@ -1,5 +1,5 @@
 ---
-title: Create PEM Certificate for Push Notification 
+title: Create PEM Certificate
 ---
 
 1. Export certificate and private key separately. First, export the certificate by right-clicking it and choosing "Export".
@@ -17,7 +17,9 @@ title: Create PEM Certificate for Push Notification
 6. Convert certificate .p12 file into .pem file
 
     {% highlight bash %}
+
     openssl pkcs12 -clcerts -nokeys -out apns-cert.pem -in apns-cert.p12
+
     {% endhighlight %}
      
     When prompted for a password, simply press enter since no password should have been given when exporting
@@ -26,7 +28,9 @@ title: Create PEM Certificate for Push Notification
 7. Convert key .p12 file into .pem file:
 
     {% highlight bash %}
+
     openssl pkcs12 -nocerts -out apns-key.pem -in apns-key.p12
+
     {% endhighlight %}  
 
     When prompted for a password, simply press enter since no password should have been given when exporting
@@ -35,7 +39,9 @@ title: Create PEM Certificate for Push Notification
 8. Remove encryption from key .pem file:
 
     {% highlight bash %}
+
     openssl rsa -in apns-key.pem -out apns-key-noenc.pem
+
     {% endhighlight %}  
 
     Enter pass phrase from previous step when prompted to "Enter pass phrase".
@@ -43,7 +49,9 @@ title: Create PEM Certificate for Push Notification
 9. Merge certificate and key .pem file into one single .pem file:
     
     {% highlight bash %}
+
     cat apns-cert.pem apns-key-noenc.pem > apns-prod.pem
+    
     {% endhighlight %}  
 
 10. Upload to online services that will require it.
