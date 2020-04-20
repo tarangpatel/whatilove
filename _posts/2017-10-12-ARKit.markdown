@@ -1,5 +1,5 @@
 ---
-title: ARKit: Resources 
+title: ARKit - Resources 
 ---
 
 - Get 3D Models: [SketchFab](https://sketchfab.com/), [TurboSquid](https://www.turbosquid.com/)
