@@ -1,15 +1,16 @@
 ---
 layout: about
-title: accent
-author: Ankit Sultana
+title: About Me
+author: Tarang Patel
 permalink: /about
 ---
 
-Hi! My name is yourname!
+Welcome to my blog.
 
-> One shalt not speak shakespearean, or brocolli McDonalds
+> Documenting important topics in iOS, Swift, ML and technology in general  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a computer engineer with passion in photography. My goal is to learn new technologies, document it here as I learn it and share with others.
 
+I have 10+ years of software development experience developing mobile applicaitons for iOS platforms. I love to experiment and build software prototypes such as websites, backend applications, machine learning models and full stack software.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am open for consulting and collaborating on your next great idea. 
