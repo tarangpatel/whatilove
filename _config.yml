@@ -47,10 +47,10 @@ email_md5: ad7e59f9114404533469f87b323bec5d
 favicon: true
 favicon_location: "images/favicon.ico"
 
-profile_picture: images/logo.png
+profile_picture: "images/logo.png"
 paginate: 7
 paginate_path: "/page/:num"
-tracking_id: UA-69243698-7 # GA Tracking ID
+tracking_id: UA-69243698-7 # GA Tracking IsD
 
 # Social Stuff | open graph and twitter cards
 og_image: "images/logo.png" # This will show in facebook thumbnails
