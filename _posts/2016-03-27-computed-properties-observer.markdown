@@ -3,7 +3,7 @@ title: Advance Properties in Swift
 ---
 
 ## Computed Properties
-* Use only var
+Use only *var*
 
 They provide a getter and an optional setter to retrieve and set other properties and values indirectly.
 

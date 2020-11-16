@@ -22,7 +22,7 @@ copyright: TarangPatel
 intro: true         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Engineer :computer: Photographer :camera: Dreamer :movie_camera: :bicyclist: :trophy:
+    Software engineer with experties in Mobile Apps Develpoment, Software Design and Architecture, Full-stack mobile solutions. I provide services like consulting on digital transformation, bootstrap mobile first solution, code-review, mentoring and more. Please contact for details. 
 
 permalink: /:title.html
 
@@ -39,7 +39,6 @@ about_stub: >
 about_footer: true
 
 github_username: tarangpatel
-facebook_id: tarang.patel.005
 linkedin_id: tarangspatel
 instagram_id: tarang5
 email_md5: ad7e59f9114404533469f87b323bec5d
