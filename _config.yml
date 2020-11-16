@@ -50,7 +50,7 @@ favicon_location: "images/favicon.ico"
 profile_picture: "images/logo.png"
 paginate: 7
 paginate_path: "/page/:num"
-tracking_id: UA-69243698-7 # GA Tracking IsD
+tracking_id: UA-42678071-2  #UA-69243698-7 # GA Tracking IsD
 
 # Social Stuff | open graph and twitter cards
 og_image: "images/logo.png" # This will show in facebook thumbnails
