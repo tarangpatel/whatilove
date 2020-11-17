@@ -5,12 +5,20 @@ author: Tarang Patel
 permalink: /about
 ---
 
-Welcome to my blog.
+- Experience in developing enterprise and public applications. Chekout my LinkedIn below
+- Follow industry standard SDLC applying best practices
+- Experiment with different technologies such as machine learning, microservices, BFFs, cloud, IoT etc...
+- Passionate about photography. Checkout my Insta page below
 
-> Documenting important topics in iOS, Swift, ML and technology in general  
+## I can help
+Hire me for:
 
-I am a computer engineer with passion in photography. My goal is to learn new technologies, document it here as I learn it and share with others.
+- Application design and architecture
+- Provide consultation on transforming business to mobile first
+- Setup application developement workflow and infrastructure
+- Code audit and code review
+- Hands on application development
+- Design, develop and deploy apps to Apps Store
+- Mentor students, employees and eager minds
 
-I have 10+ years of software development experience developing mobile applicaitons for iOS platforms. I love to experiment and build software prototypes such as websites, backend applications, machine learning models and full stack software.
-
-I am open for consulting and collaborating on your next great idea. 
+## [Contact Me](mailto:tarangpatelinc@gmail.com) 
