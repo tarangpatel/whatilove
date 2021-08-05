@@ -42,11 +42,11 @@ portfolio:
       description: Step counter app <a href="https://apps.apple.com/us/app/level-smart-glasses/id1336625786">AppStore</a>
 
     - image: /images/quickseries.png
-      title: Bench Accounting
+      title: QuickSeries
       description: A bunch of publication app <a href="https://apps.apple.com/us/app/quickseries/id1424521895">AppStore</a>
 
     - image: /images/trow.png
-      title: Nord Wood
+      title: T. Rowe Price Personal
       description: Investment App <a href="https://apps.apple.com/us/app/t-rowe-price-personal/id534586266">AppStore</a>
 
 #-------------------------------
