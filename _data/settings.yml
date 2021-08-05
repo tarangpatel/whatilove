@@ -22,8 +22,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Tarang. I’m a Developer & Photographer based in Montreal, Canada.
-  hero__description: I'm a freelance software developer and hobbyist photographer. For more than ten years I have been working with clients and companies from a variety of fields to architect and develop mobile apps that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
+  hero__title: Hi, I am Tarang.
+  hero__description: I'm a software engineer and hobbyist photographer. For more than ten years I have been working with clients from a variety of domains on architecting and developing mobile apps that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
 
 
 #-------------------------------
@@ -31,6 +31,18 @@ hero:
 portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
+    - image: /images/bell.png
+      title: MyBell
+      description: Manage you Bell account <a href="https://apps.apple.com/ca/app/mybell/id850549838">AppStore</a>
+    
+    - image: /images/virgin.png
+      title: Virgin Plus My Account
+      description: Virgin app for virgin account <a href="https://apps.apple.com/ca/app/virgin-plus-my-account/id853116586">AppStore</a>
+    
+    - image: /images/lucky.png
+      title: Lucky Mobile My Account
+      description: Mobile app for Lucky mobile <a href="https://apps.apple.com/ca/app/lucky-mobile-my-account/id1459173378">AppStore</a>
+    
     - image: /images/cityparking.png
       title: City Parking
       description: A parking app <a href="https://apps.apple.com/ca/app/cityparking-parking-app/id1084431369">AppStore</a>
