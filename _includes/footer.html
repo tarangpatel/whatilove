@@ -1,48 +1,31 @@
-<footer>
-    {% include paginate.html %}
-    {% include suggestion.html %}
-    {% if page.url == "/about" or paginator.total_pages == 1 or page.url == "/404" %}
-        <div class="container" style="text-align: center; margin-bottom: 20px">
-            <a target="_blank" class="button" href="https://linkedin.com/in/{{ site.linkedin_id }}">
-                I @ LinkedIn
-            </a>
+<!-- begin footer -->
+<footer class="footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        <div class="footer__inner">
+          {% if site.data.settings.social %}
+            <div class="social">
+              <ul class="social__list list-reset">
+                {% for social in site.data.settings.social %}
+                  <li class="social__item">
+                    <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener" aria-label="{{social.label}} link"><i class="ion {{social.icon}}" style="color: {{social.color}};"></i> {{social.label}}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
         </div>
-    {% endif %}
-    <hr />
-    <div class="user-footer">
-        <div class="copyright alignable pull-left">
-            {% if site.copyright %}
-                <h2> &copy;{{ site.copyright }}</h2>
-            {% else %}
-                <h2> &copy;{{ site.title }}</h2>
-            {% endif %}
+
+        <div class="footer__info">
+          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
         </div>
-        <div class="alignable pull-right">
-            <a target="_blank" href="https://github.com/{{ site.github_username }}" class="button">
-                GitHub
-            </a>
-            <a target="_blank" href="https://linkedin.com/in/{{ site.linkedin_id }}" class="button">
-                LinkedIn
-            </a>
-            <!-- <a target="_blank" href="https://www.facebook.com/{{ site.facebook_id }}" class="button">
-                Facebook
-            </a> -->
-            <a target="_blank" href="https://www.instagram.com/{{ site.instagram_id }}" class="button">
-                Instagram
-            </a>
-            <!-- <a href="mailto:{{ site.email }}" class="button">
-                mail
-            </a> -->
-            <!-- <a target="_blank" href="{{ site.baseurl }}/feed.xml" class="button">
-                rss
-            </a> -->
-        </div>
+
+      </div>
     </div>
-    <div style="clear:both"></div>
-    <hr />
-    <div class="theme-footer">
-        <p class="alignable pull-left" style="display: inline-block">
-            Built with <a href="http://jekyllrb.com/" class="different-highlight underline">Jekyll</a> and <a href="http://ankitsultana.me/accent/" class="different-highlight underline">accent</a>
-        </p>
-    </div>
+  </div>
+
 </footer>
+<!-- end footer -->
