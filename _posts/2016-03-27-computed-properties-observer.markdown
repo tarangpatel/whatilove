@@ -1,6 +1,5 @@
 ---
 title: Advance Properties in Swift
-image: '/images/06.jpg'
 ---
 
 ## Computed Properties

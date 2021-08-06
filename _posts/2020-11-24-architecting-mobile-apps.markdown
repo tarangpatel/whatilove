@@ -2,7 +2,6 @@
 title: Architecting Mobile Apps
 categories: [architecture, design patterns, mobile]
 tags: [architecture, design patterns, mobile apps, software design, software architecture, MVVM, MVC, SOLID]
-image: '/images/04-1.jpg'
 ---
  
 When developing mobile application we generally start by asking shall we use MVVM or VIPER? MVP gets to shine sometime but MVC gets completely side tracked by calling it massive view controller.

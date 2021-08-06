@@ -2,7 +2,6 @@
 title: Create PEM Certificate
 categories: [tools, certificates]
 tags: [iOS, Push Notification, Certififates, PEM]
-image: '/images/12.jpg'
 ---
 
 -  Export certificate and private key separately. First, export the certificate by right-clicking it and choosing "Export".
