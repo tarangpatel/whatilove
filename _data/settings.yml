@@ -22,8 +22,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I am Tarang.
-  hero__description: I'm a software engineer and hobbyist photographer. For more than ten years I have been working with clients from a variety of domains on architecting and developing mobile apps that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
+  hero__title: Hello, I am Tarang.
+  hero__description: I'm a software engineer and hobbyist photographer. I invite you to navigate my portfolio to know a bit more about me and my work.
 
 
 #-------------------------------
@@ -96,4 +96,4 @@ contact:
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-42678071-2
