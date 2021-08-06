@@ -17,5 +17,4 @@ For more than ten years I have been working with clients from various fields bri
 * Clear and transparent communication.
 * Help team mates achieve their best.
 
-### Please contact me for more information about me and my work. 
-##### <a href="mailto:tarangpatelinc@gmail.com">Send email</a>
+### Please <a href="mailto:tarangpatelinc@gmail.com">contact me</a> for more information about me and my work.

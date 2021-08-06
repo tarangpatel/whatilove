@@ -30,6 +30,7 @@ hero:
 # Portfolio Settings
 portfolio:
   portfolio__title: Portfolio
+  portfolio__description: These are the some of applications I have worked on that I am proud to share.
   portfolio__gallery:
     - image: /images/bell.png
       title: MyBell
