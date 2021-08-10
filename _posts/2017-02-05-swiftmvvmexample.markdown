@@ -29,7 +29,7 @@ In this post I will implement something like following:
 
 > MVVM + Coordinator or Navigator + Store
 
-![Figure 1: MVVMS pattern](images/MVVMS.png)
+![Figure 1: MVVMS pattern](/images/MVVMS.png)
 
 I have taken the concept of "Store" from the book [iOS Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/ios-programming/) which introduced the pattern **MVCS** (Model-View-Controller-Store). In our case the pattern will be **MVVMCS** to be more specific.
 
