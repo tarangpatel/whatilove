@@ -20,8 +20,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, I am Tarang.
-  hero__description: I'm a software engineer and hobbyist photographer. I invite you to navigate my portfolio to know a bit more about me and my work.
+  hero__title: Looking for Mobile Apps and Digital Transformation?
+  hero__description: I can help you with my technical experties in building team, setting up solid foundation and guiding through process. 
 
 
 #-------------------------------
@@ -32,31 +32,31 @@ portfolio:
   portfolio__gallery:
     - image: /images/bell.png
       title: MyBell
-      description: Manage you Bell account <a href="https://apps.apple.com/ca/app/mybell/id850549838">AppStore</a>
+      description: https://apps.apple.com/ca/app/mybell/id850549838
     
     - image: /images/virgin.png
       title: Virgin Plus My Account
-      description: Virgin app for virgin account <a href="https://apps.apple.com/ca/app/virgin-plus-my-account/id853116586">AppStore</a>
+      description: https://apps.apple.com/ca/app/virgin-plus-my-account/id853116586
     
     - image: /images/lucky.png
       title: Lucky Mobile My Account
-      description: Mobile app for Lucky mobile <a href="https://apps.apple.com/ca/app/lucky-mobile-my-account/id1459173378">AppStore</a>
+      description: https://apps.apple.com/ca/app/lucky-mobile-my-account/id1459173378
     
     - image: /images/cityparking.png
       title: City Parking
-      description: A parking app <a href="https://apps.apple.com/ca/app/cityparking-parking-app/id1084431369">AppStore</a>
+      description: https://apps.apple.com/ca/app/cityparking-parking-app/id1084431369
 
     - image: /images/level.png
       title: VSP Level
-      description: Step counter app <a href="https://apps.apple.com/us/app/level-smart-glasses/id1336625786">AppStore</a>
+      description: https://apps.apple.com/us/app/level-smart-glasses/id1336625786
 
     - image: /images/quickseries.png
       title: QuickSeries
-      description: A bunch of publication app <a href="https://apps.apple.com/us/app/quickseries/id1424521895">AppStore</a>
+      description: https://apps.apple.com/us/app/quickseries/id1424521895
 
     - image: /images/trow.png
       title: T. Rowe Price Personal
-      description: Investment App <a href="https://apps.apple.com/us/app/t-rowe-price-personal/id534586266">AppStore</a>
+      description: https://apps.apple.com/us/app/t-rowe-price-personal/id534586266
 
 #-------------------------------
 # Subscribe Settings
