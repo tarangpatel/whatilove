@@ -77,7 +77,7 @@ Here we have used [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) to m
 
 Ok for the first view I will go with storyboard initialization and associate VM with the VC directly. I know this is not the proper MVVM way to do it.
 
-{% highlight swift %}
+{% splash %}
 
     class HomeViewController: UIViewController {
 
@@ -89,7 +89,7 @@ Ok for the first view I will go with storyboard initialization and associate VM 
 
         ...
 
-{% endhighlight %}
+{% endsplash %}
 
 But for the second VC which is MovieDetailViewController we will set its VM using property based DI.
 
