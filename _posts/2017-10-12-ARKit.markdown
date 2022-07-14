@@ -1,6 +1,6 @@
 ---
 title: ARKit - Resources
-image: images/06.jpg
+image: /images/06.jpg
 ---
 
 - Get 3D Models: [SketchFab](https://sketchfab.com/), [TurboSquid](https://www.turbosquid.com/)

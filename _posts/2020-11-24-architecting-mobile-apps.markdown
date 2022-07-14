@@ -12,7 +12,7 @@ tags:
     MVC,
     SOLID,
   ]
-image: images/04.jpg
+image: /images/04.jpg
 ---
 
 When developing mobile application we generally start by asking shall we use MVVM or VIPER? MVP gets to shine sometime but MVC gets completely side tracked by calling it massive view controller.

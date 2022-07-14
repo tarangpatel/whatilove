@@ -1,7 +1,7 @@
 ---
 title: Swift - MVVM
 published: true
-image: images/07.jpg
+image: /images/07.jpg
 ---
 
 In last few weeks I have been reading a lot about Swift architecture and best practices. MVVM is one of the most discussed architecture pattern out there.

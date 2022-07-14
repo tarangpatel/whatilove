@@ -1,6 +1,6 @@
 ---
 title: iOS Development Toolkit
-image: images/02-1.jpg
+image: /images/02-1.jpg
 ---
 
 Following are some of the most used tools in my application development. I will keep updating as I discover new ones and imeplement in any of my project.

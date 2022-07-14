@@ -1,7 +1,7 @@
 ---
 title: Algorithms and Data Structures
 published: true
-image: images/08.jpg
+image: /images/08.jpg
 ---
 
 Being able to develop a mobile app is one thing and being a good software engineer is another. I have been developing mobile apps (iOS mostly)
