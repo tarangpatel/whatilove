@@ -1,47 +1,45 @@
+---
 #-------------------------------
 # Site Settings
 title: Tarang
 author: Tarang Patel
 description: A personal website of a software developer
 
-
 #-------------------------------
 # Menu Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about/'
-
+    - title: "Home"
+      url: "/"
+    - title: "Blog"
+      url: "/blog/"
+    - title: "About"
+      url: "/about/"
 
 #-------------------------------
 # Hero Settings
 hero:
   hero__title: Looking for Mobile Apps and Digital Transformation?
-  hero__description: I can help you with my technical experties in building team, setting up solid foundation and guiding through process. 
-
+  hero__description: I can help you with my technical experties in building team, setting up solid foundation and guiding through process.
 
 #-------------------------------
 # Portfolio Settings
 portfolio:
-  portfolio__title: Portfolio
-  portfolio__description: These are the some of applications I have worked on that I am proud to share.
+  portfolio__title: iOS Apps
+  portfolio__description: that I have worked on and am proud to share
   portfolio__gallery:
     - image: /images/bell.png
       title: MyBell
       description: https://apps.apple.com/ca/app/mybell/id850549838
-    
+
     - image: /images/virgin.png
       title: Virgin Plus My Account
       description: https://apps.apple.com/ca/app/virgin-plus-my-account/id853116586
-    
+
     - image: /images/lucky.png
       title: Lucky Mobile My Account
       description: https://apps.apple.com/ca/app/lucky-mobile-my-account/id1459173378
-    
+
     - image: /images/cityparking.png
       title: City Parking
       description: https://apps.apple.com/ca/app/cityparking-parking-app/id1084431369
@@ -61,21 +59,34 @@ portfolio:
 #-------------------------------
 # Subscribe Settings
 #mailchimp:
- # mailchimp__title: Get updates and digital art inspiration # Add your Title
-  #mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-  #mailchimp__button__text: Subscribe # Add your button text.
-  #mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
-
+# mailchimp__title: Get updates and digital art inspiration # Add your Title
+#mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#mailchimp__button__text: Subscribe # Add your button text.
+#mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
 
 #-------------------------------
 # Footer Settings
 social:
-- {icon: "ion-logo-github", color: "#24292e", label: Github, link: "https://github.com/tarangpatel"}
-- {icon: "ion-logo-linkedin", color: "#55acee", label: LinkedIn, link: "https://www.linkedin.com/in/tarangspatel"}
-- {icon: "ion-logo-instagram", color: "#e4405f", label: Instagram, link: "https://instagram.com/tarang5"}
+  - {
+      icon: "ion-logo-github",
+      color: "#24292e",
+      label: Github,
+      link: "https://github.com/tarangpatel",
+    }
+  - {
+      icon: "ion-logo-linkedin",
+      color: "#55acee",
+      label: LinkedIn,
+      link: "https://www.linkedin.com/in/tarangspatel",
+    }
+  - {
+      icon: "ion-logo-instagram",
+      color: "#e4405f",
+      label: Instagram,
+      link: "https://instagram.com/tarang5",
+    }
 
 # Other icons can be found at https://ionicons.com/v4/
-
 
 #-------------------------------
 # Contact Settings
@@ -86,12 +97,10 @@ contact:
 # NOTE
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 
 #disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
-
 
 #-------------------------------
 # Google Analytics

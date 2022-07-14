@@ -1,6 +1,7 @@
 ---
 title: Swift - MVVM
 published: true
+image: images/07.jpg
 ---
 
 In last few weeks I have been reading a lot about Swift architecture and best practices. MVVM is one of the most discussed architecture pattern out there.
@@ -12,7 +13,7 @@ The power of MVVM comes from binding between view and view models. There are lot
 3. Delegates
 4. Notifications
 
-There are also frameworks from the FRP world that can bring most out of this pattern.  
+There are also frameworks from the FRP world that can bring most out of this pattern.
 
 1. [RxSwift & RxCocoa](https://github.com/ReactiveX/RxSwift)
 2. [ReactiveSwift & ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveSwift)
@@ -38,6 +39,7 @@ I will be using the API from [TMDB](https://www.themoviedb.org/documentation/api
 Here first I will be taking non Reactive approach and later will compare and implement Reactive framework to see how it can improve our application.
 
 ### Models
+
 {% highlight swift %}
 
     import ObjectMapper
@@ -130,7 +132,7 @@ In VC I can say:
 {% highlight swift %}
 
     self.viewModel.movieListLoaded = { [unowned self] _ in
-      self.tableView.reloadData()      
+      self.tableView.reloadData()
     }
 
 {% endhighlight %}
@@ -138,7 +140,7 @@ In VC I can say:
 And in VM I have:
 
 {% highlight swift %}
-    ...
+...
 
     var movieListLoaded: (()->())
 
@@ -218,6 +220,7 @@ And since it is owned by first view controller the init method is:
             self.totalResults = Dynamic(0)
             self.totalPages = Dynamic(0)
         }
+
 {% endhighlight %}
 
 Now binding is very easy just add this to VC:
@@ -231,10 +234,9 @@ Now binding is very easy just add this to VC:
         }
     }
 
-{% endhighlight %}    
+{% endhighlight %}
 
 Here we are listening to "page" property.
-
 
 ## Store
 
@@ -242,24 +244,26 @@ Store can be a simple struct or a class. For simplicity I kept it struct.
 
 {% highlight swift %}
 
-    struct MovieListStore {        
-        func getMovies(_ apiType: MovieApiType, callback:@escaping (Result<Movies>) -> Void) {            
-            // logic is to be implemented in case of caching of data             
+    struct MovieListStore {
+        func getMovies(_ apiType: MovieApiType, callback:@escaping (Result<Movies>) -> Void) {
+            // logic is to be implemented in case of caching of data
             NetworkService().get(apiUrl: apiType, request: nil) { response in
                 callback(response)
             }
         }
     }
+
 {% endhighlight %}
 
 In out VM we can call store like:
 
 {% highlight swift %}
-    let movieListStore = MovieListStore()
+let movieListStore = MovieListStore()
 
     self.movieListStore.getMovies(apiType) { [unowned self] response in
       ...
     }
+
 {% endhighlight %}
 
 **Store** contains the storage logic. Some application cache or stores data on the device. So in accordance with single responsibility principle and to make code more testable a separate module is created called Store.
@@ -269,7 +273,7 @@ In out VM we can call store like:
 This is a class which takes care of all the network related activity. I have used [Alamofire](https://github.com/Alamofire/Alamofire) for conducting all network related operations. You can also combine Alamofire with ObjectMapper using [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper). But here I will just map it manually.
 
 {% highlight swift %}
-    final class NetworkService: Gettable  {
+final class NetworkService: Gettable {
 
     func get(apiUrl: ApiProtocol, request: AnyObject?, completion: @escaping (Result<Movies>) -> Void) {
 
@@ -278,17 +282,18 @@ This is a class which takes care of all the network related activity. I have use
           .validate()
           .responseJSON { response in
               switch response.result {
-              case .success:                  
-                  guard let jsonValue = response.result.value else { return }                      
-                  guard let movieList = Mapper<Movies>().map(JSONObject: jsonValue) else { return }                  
+              case .success:
+                  guard let jsonValue = response.result.value else { return }
+                  guard let movieList = Mapper<Movies>().map(JSONObject: jsonValue) else { return }
                   completion(Result.Success(movieList))
 
               case .failure(let error):
                   print(error)
                   completion(Result.Failure(APPError.ServerError(message: error.localizedDescription)))
-              }              
-          }      
+              }
+          }
     }
+
 {% endhighlight %}
 
 For more information on "Gettable" protocol checkout [Protocol-Oriented-Networking in Swift](https://www.natashatherobot.com/protocol-oriented-networking-in-swift/). It is good practice to implement protocols as it will later allow us to create mocks for testing.
@@ -298,7 +303,7 @@ For more information on "Gettable" protocol checkout [Protocol-Oriented-Networki
 Here I have taken the very simplest case of app navigation i.e to go from one view to another. This is the simplest way of doing navigation. I will explore more on this.
 
 {% highlight swift %}
-    enum NavigationType {
+enum NavigationType {
 
         case push
         case pop
@@ -341,7 +346,8 @@ Here I have taken the very simplest case of app navigation i.e to go from one vi
             }
         }
 
-    }   
+    }
+
 {% endhighlight %}
 
 This is an ongoing project where I will keep improving the code based on feedbacks and comments.

@@ -1,5 +1,6 @@
 ---
-title: ARKit - Resources 
+title: ARKit - Resources
+image: images/06.jpg
 ---
 
 - Get 3D Models: [SketchFab](https://sketchfab.com/), [TurboSquid](https://www.turbosquid.com/)
@@ -10,4 +11,3 @@ title: ARKit - Resources
 - With SceneKit: [ARKit and Scenekit](https://blog.pusher.com/building-an-ar-app-with-arkit-and-scenekit/)
 - With SpriteKit: [ARKit and Spritekit](https://blog.pusher.com/building-ar-game-arkit-spritekit/)
 - Documentation: https://developer.apple.com/arkit/
-

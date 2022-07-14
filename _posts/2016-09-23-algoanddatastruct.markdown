@@ -1,6 +1,7 @@
 ---
 title: Algorithms and Data Structures
 published: true
+image: images/08.jpg
 ---
 
 Being able to develop a mobile app is one thing and being a good software engineer is another. I have been developing mobile apps (iOS mostly)
@@ -9,13 +10,11 @@ for almost six years. But very few times I have faced challenges to strip down a
 iOS development does not require implementing any algorithm and data structures and it is mainly true for simple apps. You do not consider them because most of the time data is stored on the server and server takes care of all the heavy computations for eg: adding, deleting, sorting and searching of specific data.
 But that should not stop you from learning how algorithms and data structure are implemented in iOS and eventually using it for optimization. What happens when data is cached on device for offline usage ? Or how about sorting on device and not rely on server using network every time sorting is required?
 
-
 Data structures in iOS already take into consideration best possible algorithms to use depending on the data size.
 
 But sometimes that is not enough. When looking into popular apps like Facebook, Amazon, WhatsApp, Instagram etc... you will they implement complex data structures and algorithms.
 
-Following are some great resources to learn about algorithms and data structres in Swift and iOS in general. 
+Following are some great resources to learn about algorithms and data structres in Swift and iOS in general.
 
 - [Swift Algorithm Club by Ray Wenderlich](https://github.com/raywenderlich/swift-algorithm-club "Swift Algorithm Club"): This is one the best reposiroty for collection of Algorithms and Data Structures explaination and examples.
-- [Algorithms & Data Structures with Swift](http://waynewbishop.com/swift/ "Algorithms & Data Structures with Swift"): Wayne Bishop worte a book on it. 
-
+- [Algorithms & Data Structures with Swift](http://waynewbishop.com/swift/ "Algorithms & Data Structures with Swift"): Wayne Bishop worte a book on it.
