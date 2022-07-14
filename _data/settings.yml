@@ -20,12 +20,12 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Looking for Mobile Apps and Digital Transformation?
-  hero__description: I can help you with my technical experties in building team, setting up solid foundation and guiding through process.
+  hero__description: I can help with my technical experties in building teams, setting up solid foundation and guiding through process.
 
 #-------------------------------
 # Portfolio Settings
 portfolio:
-  portfolio__title: iOS Apps
+  portfolio__title: My work
   portfolio__description: that I have worked on and am proud to share
   portfolio__gallery:
     - image: /images/bell.png
