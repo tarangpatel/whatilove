@@ -56,6 +56,10 @@ portfolio:
       title: T. Rowe Price Personal
       description: https://apps.apple.com/us/app/t-rowe-price-personal/id534586266
 
+    - image: /images/nexafe.png
+      title: Nexafeday - COVID daily self-assessment app
+      description: https://apps.apple.com/us/app/nexafeday/id1520314894
+
 #-------------------------------
 # Subscribe Settings
 #mailchimp:
