@@ -89,6 +89,12 @@ social:
       label: Instagram,
       link: "https://instagram.com/tarang5",
     }
+  - {
+      icon: "ion-logo-twitter",
+      color: "#55acee",
+      label: Twitter,
+      link: "https://twitter.com/tarang0510",
+    }
 
 # Other icons can be found at https://ionicons.com/v4/
 
