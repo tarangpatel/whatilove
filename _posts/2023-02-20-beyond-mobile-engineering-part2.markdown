@@ -1,3 +1,12 @@
+---
+title: Beyond Mobile Engineering - Part 2
+categories: [mobile engineering, career path]
+tags:
+  [ mobile engineering,
+  career path
+  ]
+image: /images/04.jpg
+---
 # Beyond Mobile Engineering - Part 2
 
 ### *Staying technical*
