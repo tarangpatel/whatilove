@@ -1,3 +1,12 @@
+title: Beyond Mobile Engineering - Part 1
+categories: [mobile engineering, career path]
+tags:
+  [ mobile engineering,
+  career path
+  ]
+image: /images/04.jpg
+---
+
 # Beyond Mobile Engineering - Part 1
 
 ### *What does it take to be more than just a mobile developer? How to grow and break that hypothetical "Glass Ceiling"?*
