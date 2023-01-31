@@ -1,3 +1,13 @@
+---
+title: Beyond Mobile Engineering - Part 3
+categories: [mobile engineering, career path]
+tags:
+  [ mobile engineering,
+  career path
+  ]
+image: /images/04.jpg
+---
+
 # Beyond Mobile Engineering - Part 3
 ### *Moving to management* 
 
