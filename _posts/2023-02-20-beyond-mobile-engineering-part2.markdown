@@ -1,6 +1,6 @@
 # Beyond Mobile Engineering - Part 2
 
-### Staying technical
+### *Staying technical*
 
 So now that you have choose to stay with technical path let us go a bit deep into it and see what are possible options to explore. 
 
