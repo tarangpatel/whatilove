@@ -1,6 +1,6 @@
 # Beyond Mobile Engineering - Part 1
 
-### What does it take to be more than just a mobile developer? How to grow and break that hypothetical "Glass Ceiling"?
+### *What does it take to be more than just a mobile developer? How to grow and break that hypothetical "Glass Ceiling"?*
 
 Most of the software developer's journey begins with entering one specific technology and mastering it, as time progresses. Though it is front-end or back-end. Some follow the Full Stack path but even in that they master one language such as Java, JS or Python to build full stack applications. Very few developers will spread their wings and go horizontal into learning different technologies as time progresses, gaining broad software knowledge.
 Similarly even in mobile application development a new developer will start with either iOS or Android platform. Many eager developers who have prior web experience want to develop for both platforms and take the path of React Native, Flutter or Cordova in olden days.
