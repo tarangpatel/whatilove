@@ -1,3 +1,4 @@
+---
 title: Beyond Mobile Engineering - Part 1
 categories: [mobile engineering, career path]
 tags:
