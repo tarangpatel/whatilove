@@ -16,9 +16,13 @@ So now that you have choose to stay with technical path let us go a bit deep int
 
 ## Conservative Path
 
+![Conservative career path for any software developer](/images/beyondME/2_1.png)
+
 This is a very common path where a developer progresses in one particular field with experience. It is perfectly fine to follow this path if that is your goal. You will get to learn and grow at each step. 
 
 ## Exploration Path
+
+![Exploring other technical fields](/images/beyondME/2_1.png)
 
 Above diagram will help you visualize the possible paths you can explore. These paths are very generalized. You can definitely do Mobile and Backend together or iOS and Mac apps together or Android and WearOS together. Also you can be developing an application which incorporates AI/ML in the app. But the above paths show at what stage you can give complete attention to that stack.
 
