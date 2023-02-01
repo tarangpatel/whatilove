@@ -21,11 +21,15 @@ Similarly even in mobile application development a new developer will start with
 - C# developers will take up Xamarin
 - Daring soul will venture the Flutter world
 
+![Mobile devs can be divided into two main camps: Native and Hybrid](/images/beyondME/1_1.png)
+
 Every developer faces with two critical decision points in their professional lifetime:
 - Time when they need to decide what tech stack to focus on (which is knowing a going vertical).
 - Time when they need to decide what is next for a senior dev like me (which can be going horizontal or pivoting)
 
 ## Decision Point 1:
+
+![Options in software development](/images/beyondME/1_2.png)
 
 This comes pretty early in the journey and it is not very difficult to decide. A mobile developer will pick one native platform based on their interest and environment, and continue with it. I picked up the iOS platform and stayed in the ecosystem for more than 10 years. It worked for me very well.
 
@@ -33,7 +37,11 @@ Nowadays with more opportunities in React Native and Flutter, many developers de
 
 ## Decision Point 2:
 
+![Learn other mobile platform and tech stack. For eg: Android Dev](/images/beyondME/1_3.png)
+
 In my career even though I went deep into the iOS platform, I still kept experimenting and learning Android, Xamarin, React Native, and Flutter. This gave me wider knowledge of the mobile development ecosystem as a whole. It gave me a bigger picture when it came to Design Systems, CI/CD, build systems, external tools and services.
+
+![Two choices](/images/beyondME/1_4.png)
 
 With that comes second critical decision point to either stay in the technical field or take the management route. This is very common among the software developer's journey. There comes a point where you have to choose your next challenge. I chose to explore the management path. My reason was to learn what challenges management faces and how it impacts the software development lifecycle.
 
@@ -49,6 +57,8 @@ Let us take a quick look at what we mean by going horizontal and going vertical.
 2. Getting broad knowledge of a specific domain within software engineering. The means learning how to make mobile apps for different platforms using different available tools and languages.
 
 And then there is vertical path that gives you mastery in one specific domain and platform. 
+
+![Going horizontal vs going vertical](/images/beyondME/1_5.png)
 
 This is very generalized representation of a typical iOS developer. If you are not a mobile developer still you can see how your domain can fit into this chart. 
 In this part we have seen what are the decision points and within those decision points what are the options for a mobile developer. In next part we will go a little bit detail on our decision point 2 and give some tips that will help your decision process. 
