@@ -14,6 +14,7 @@ image: /images/path.jpg
 ## Pivot to Management Path
 
 ![Technical to Management](/images/beyondME/3_1.png)
+*Technical to Management*
 
 For those who are looking to opt out from technical part here are some tips as an iOS Manager:
 
