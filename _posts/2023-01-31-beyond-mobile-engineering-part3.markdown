@@ -13,6 +13,8 @@ image: /images/path.jpg
 
 ## Pivot to Management Path
 
+![Technical to Management](/images/beyondME/3_1.png)
+
 For those who are looking to opt out from technical part here are some tips as an iOS Manager:
 
 1. **Master of One:** First of all make sure you know your platform, you have a very good understanding of your ecosystem and are able to get your hands dirty when needed. Because to be an effective manager you should know your field.
