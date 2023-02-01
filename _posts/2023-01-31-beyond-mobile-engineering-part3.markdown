@@ -5,7 +5,7 @@ tags:
   [ mobile engineering,
   career path
   ]
-image: /images/04.jpg
+image: /images/path.jpg
 ---
 
 # Beyond Mobile Engineering - Part 3
@@ -22,3 +22,5 @@ For those who are looking to opt out from technical part here are some tips as a
 5. **Emotional Intelligence (EI):** This has gained a lot of popularity in recent times. And in this age of work culture EI is a necessary skill for any manager or a leader. Having a right mindset and control over emotions brings prosperity not only to oneself but also impacts positively to your team.
 
 In conclusion, don't get stuck at one place in your career. Stay hungry, stay curious and break that glass ceiling. Of course, unless you are in a very comfortable place in your life and have no intention of disturbing the balance.
+
+*Post header image [Designed by slidesgo / Freepik]("http://www.freepik.com")*

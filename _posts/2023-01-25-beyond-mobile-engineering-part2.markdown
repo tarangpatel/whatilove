@@ -5,8 +5,9 @@ tags:
   [ mobile engineering,
   career path
   ]
-image: /images/04.jpg
+image: /images/path.jpg
 ---
+
 # Beyond Mobile Engineering - Part 2
 
 ### *Staying technical*
@@ -52,3 +53,5 @@ Here are some tips I would like to share from my experience:
 6. So now you know everything. What's next? Honestly for some, this is it. You have explored a lot and gained a lot of knowledge. Now is the time to implement it. Find opportunities in your current workplace and if you cannot, explore opportunities outside your organization. It is never late to pivot in your career. You can start again from junior but in a very different place. Do not be afraid to start from the beginning. Remember you will progress way faster than you did the first time. You can be a backend developer. Even DevOps. So do not be afraid to pivot. Many businesses tend to pivot in their lifetime to be successful, so can you.
 
 Above tips are mainly for those who want to stay technical but explore other fields.
+
+*Post header image [Designed by slidesgo / Freepik]("http://www.freepik.com")*

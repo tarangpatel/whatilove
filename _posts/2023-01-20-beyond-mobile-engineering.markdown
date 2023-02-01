@@ -5,7 +5,7 @@ tags:
   [ mobile engineering,
   career path
   ]
-image: /images/04.jpg
+image: /images/path.jpg
 ---
 
 # Beyond Mobile Engineering - Part 1
@@ -53,3 +53,5 @@ And then there is vertical path that gives you mastery in one specific domain an
 This is very generalized representation of a typical iOS developer. If you are not a mobile developer still you can see how your domain can fit into this chart. 
 In this part we have seen what are the decision points and within those decision points what are the options for a mobile developer. In next part we will go a little bit detail on our decision point 2 and give some tips that will help your decision process. 
 Thank you for reading this article.
+
+*Post header image [Designed by slidesgo / Freepik]("http://www.freepik.com")*
