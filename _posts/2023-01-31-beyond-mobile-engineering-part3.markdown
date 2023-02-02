@@ -24,6 +24,7 @@ For those who are looking to move away from the technical path here are some tip
 4. **Motivation:** Think at the team level. Every team member needs some kind of motivation. Be it motivation to do their work or motivation to grow and advance in their career. Think about how you can motivate and mentor them.
 5. **Emotional Intelligence (EI):** This has gained a lot of popularity in recent times. And in this age of work culture, EI is a necessary skill for any manager or leader. Having the right mindset and control over emotions brings prosperity not only to oneself but also impacts positively on your team.
 
+
 ## Couple of more options
 
 So far I have mentioned the two most common paths for a developer, **Technical and Management**. But there is one more option (or you can say two more). It is the path of joining **Agile practice or Business Analyst**. 
@@ -49,12 +50,15 @@ In short,
 
 Together, the BA, the SM and the PO provide a balance that is equally important and needed for success of the solution. 
 
-## Conclusion
-In conclusion, don't get stuck in one place in your career. Stay hungry, stay curious, and break that glass ceiling. Of course, unless you are in a very comfortable place in your life and have no intention of disturbing the balance.
 
+## Final Thoughts
+One major path which I have not covered in this series is that of **Entrepreneurship**. It needs a completely different series on its own. This is the most desired path for many technical people. It leads to freedom, financial independence, fame, and accomplishments. If you have confidence, the right mindset, and a clear vision you should follow this path no matter what stage you are in your career.
+
+## Conclusion
 In this series, I went through the possible career paths for a mobile developer from my years of experience. This can be applied to any software developer. Also, these are not the only paths. You should reflect and evaluate your life goals, your family goals, and your responsibilities, and then make an informed decision about what path best suits your situation. 
 
-One major path which I have not covered in this series is that of Entrepreneurship. This is the most desired path for many technical people. It leads to freedom, financial independence, fame, and accomplishments. If you have confidence, the right mindset, and a clear vision you should follow this path no matter what stage you are in your career. 
+In conclusion, don't get stuck in one place in your career. Stay hungry, stay curious, and break that glass ceiling. Of course, unless you are in a very comfortable place in your life and have no intention of disturbing the balance.
+
 
 Happy Journey!
 
