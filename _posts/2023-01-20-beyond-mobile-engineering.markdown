@@ -68,7 +68,7 @@ And then there is the vertical path that gives you mastery in one specific domai
 
 This is a very generalized representation of a typical iOS developer. If you are not a mobile developer still you can see how your domain can fit into this chart. 
 
-In this part, we have seen what are the decision points and within those decision topics what are the options for a mobile developer. In the next part, we will detail our decision point 2 and give some tips that will help your decision process. 
+In this part, we have seen what are the decision points and within those decision points what are the options for a mobile developer. In the next part, we will detail our decision point 2 and give some tips that will help your decision process. 
 
 Thank you for reading this article.
 
