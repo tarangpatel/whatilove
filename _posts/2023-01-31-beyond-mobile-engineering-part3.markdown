@@ -26,7 +26,11 @@ For those who are looking to move away from the technical path here are some tip
 
 ## Couple of more options
 
-So far I have mentioned the two most common paths for a developer. But there is one more option (or you can say two more). It is the path of joining Agile practice or Business Analyst. 
+So far I have mentioned the two most common paths for a developer, **Technical and Management**. But there is one more option (or you can say two more). It is the path of joining **Agile practice or Business Analyst**. 
+
+![Agile and BA](/images/beyondME/3_2.png)
+*Agile and BA options*
+
 
 ### Agile Practice
 The introduction of agile methodology and ways of working opened up new roles of Scrum Master and Product Owner. Though it looks like it falls under management/business, it is not. These roles lie between technical and management.
@@ -48,6 +52,14 @@ Together, the BA, the SM and the PO provide a balance that is equally important 
 ## Conclusion
 In conclusion, don't get stuck in one place in your career. Stay hungry, stay curious, and break that glass ceiling. Of course, unless you are in a very comfortable place in your life and have no intention of disturbing the balance.
 
-*Post header image [Designed by slidesgo / Freepik]("http://www.freepik.com")*
+In this series, I went through the possible career paths for a mobile developer from my years of experience. This can be applied to any software developer. Also, these are not the only paths. You should reflect and evaluate your life goals, your family goals, and your responsibilities, and then make an informed decision about what path best suits your situation. 
+
+One major path which I have not covered in this series is that of Entrepreneurship. This is the most desired path for many technical people. It leads to freedom, financial independence, fame, and accomplishments. If you have confidence, the right mindset, and a clear vision you should follow this path no matter what stage you are in your career. 
+
+Happy Journey!
+
+
 [^1]: https://www.thebaguide.com/blog/business-analyst-vs-scrum-master-can-i-be-both#:~:text=In%20short%2C%20the%20Business%20Analyst,for%20success%20of%20the%20solution.
 [^2]: https://www.iiba.org/business-analysis-blogs/product-owner-vs-business-analyst/#:~:text=To%20summarize%2C%20the%20Product%20Owner,products%20and%20building%20winning%20teams.
+
+*Post header image [Designed by slidesgo / Freepik]("http://www.freepik.com")*
