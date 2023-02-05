@@ -12,7 +12,7 @@ tags:
     MVC,
     SOLID,
   ]
-image: /images/04.jpg
+image: /images/architectingMobileApp.png
 ---
 
 When developing mobile application we generally start by asking shall we use MVVM or VIPER? MVP gets to shine sometime but MVC gets completely side tracked by calling it massive view controller.
@@ -78,3 +78,5 @@ When architecting mobile application first we need to find out the nature of the
 - Dynamic app that loads the data from outside the device. It can further broken down into 2 main categories:
   - Real time: Updated app based on events occuring for eg: chat, live sport, uber location
   - Non-real time: Basically covers most of the apps where app will ask for data from the backend
+
+*Post header image [Designed By agny_illustration ]("https://pngtree.com/freepng/modern-flat-design-concept-of-app-development-with-characters-on-screen-building-app-and-software-can-use-for-business-development-landing-page-website-template-flat-vector-illustration_5333346.html?sol=downref&id=bef")*

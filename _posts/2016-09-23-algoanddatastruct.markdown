@@ -1,7 +1,7 @@
 ---
 title: Algorithms and Data Structures
 published: true
-image: /images/08.jpg
+image: /images/algo.png
 ---
 
 Being able to develop a mobile app is one thing and being a good software engineer is another. I have been developing mobile apps (iOS mostly)
@@ -18,3 +18,5 @@ Following are some great resources to learn about algorithms and data structres 
 
 - [Swift Algorithm Club by Ray Wenderlich](https://github.com/raywenderlich/swift-algorithm-club "Swift Algorithm Club"): This is one the best reposiroty for collection of Algorithms and Data Structures explaination and examples.
 - [Algorithms & Data Structures with Swift](http://waynewbishop.com/swift/ "Algorithms & Data Structures with Swift"): Wayne Bishop worte a book on it.
+
+*Post header image [Designed By SilviaNatalia]("https://pngtree.com/freepng/computer-algorithm-illustration-concept-flat-design-concept-of-web-page-design-for-website-and-mobile-websitevector-illustration_4180691.html?sol=downref&id=bef")*
