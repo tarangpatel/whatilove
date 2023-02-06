@@ -59,11 +59,11 @@ Now, these are only some of the two options at this stage. You have the option t
 
 ## Horizontal vs. Vertical
 
-Let us take a quick look at what we mean by going horizontal and vertical. As you can see in the following diagram, there are **two levels of horizontal **paths:
+Let us take a quick look at what we mean by going horizontal and vertical. As you can see in the following diagram, there are **two levels of horizontal** paths:
 
  1. It is getting broad knowledge of **software engineering** in general. That means trying different domains, learning multiple languages, and building other apps, sites, and databases.
 
- 2. It is getting broad knowledge of a **specific domain **within ****software engineering. This means learning to make mobile apps for different platforms using different available tools and languages.
+ 2. It is getting broad knowledge of a **specific domain** within software engineering. This means learning to make mobile apps for different platforms using different available tools and languages.
 
 And then, there is the **vertical path** that gives you mastery in one specific domain and platform.
 
@@ -72,7 +72,7 @@ And then, there is the **vertical path** that gives you mastery in one specific 
 
 This is a very generalized representation of a typical iOS developer. If you are not a mobile developer, you can still see how your domain can fit into this graph.
 
-Your first goal should be to **master one domain** and [**gain soft skills](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7)** as you progress in your career. Next, **get feedback** on your progress from your mentors, then **evaluate and validate** your position. What do you **need to improve or are still lacking**? And once you have a good idea about it decision point 2 will open more gates for you.
+Your first goal should be to **master one domain** and **[gain soft skills](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7)** as you progress in your career. Next, **get feedback** on your progress from your mentors, then **evaluate and validate** your position. What do you **need to improve or are still lacking**? And once you have a good idea about it decision point 2 will open more gates for you.
 
 In this part, we have seen what the decision points are and, within those decision points, what the options are for a mobile developer. In the [**next part](http://www.pateltarang.com/blog/beyond-mobile-engineering-part2) **of this series, we will go into detail about technical paths and give tips that will help your decision process.
 
