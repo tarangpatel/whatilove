@@ -14,6 +14,7 @@ image: /images/softskill.jpg
 As a follow-up to my previous series, this article is a supplementary read that compliments the hard skills you have gained in your journey. 
 
 Why do companies and organizations provide training, workshops, and courses for **personal development **more than professional development? Personal development, as the word says, is personal. It should come naturally, right?
+
 >  There are basically two types of skills: **Hard Skills and Soft Skills.**
 >  **Hard Skills:** These include physical skills or mental skills that are important to your job. A software developer has the skills to write great code. Technical people put more effort into learning technical skills. 
 >  **Soft Skills:** These are people skills, non-technical, that are required in every field to work efficiently, grow iteratively, and overall be a better person. Most technical people are not even aware of it.
@@ -23,6 +24,8 @@ In reality, every person already has many of the soft skills mentioned below but
 In today's day and age, we focus more on getting things done, moving fast breaking things; we have a short attention span, we have FOMO, and which suppresses extra  skills that are required to succeed.  
 
 So let's look at the importance of **Soft Skills for Software Developers**
+
+--- 
 
 ### First, Why Soft Skills Matter
 
@@ -162,6 +165,8 @@ Improving emotional intelligence involves:
 
 Emotional intelligence can play an important role in helping software developers work effectively as part of a team, solve problems, adapt to change, and understand the emotional needs of others.
 
+---
+
 ### Conclusion
 
 Soft skills are critical for success as a software developer. Whether you work in a team or are an individual contributor. Whether you are part of a big company or an indie developer. Mastering soft skills will accelerate you toward your goal in a big way and in the process inspire others.
@@ -175,6 +180,8 @@ There are many ways to develop your soft skills, including
 * **Taking on new challenges and opportunities**
 
 Above mentioned are a few of the many soft skills out there that are important. There are many books and articles written on this subject. Youtube is filled with videos from conference talks, training, and infomercials. You can also check out these [TED Talks](https://enterprisersproject.com/soft-skills-TED-Talks). 
+
+--- 
 
 >  **Full Disclaimer:** I have written this article in collaboration with our new friend, [ChatGPT](https://openai.com/blog/chatgpt/), from [OpenAI](https://openai.com/). I wanted to assess the new kid in the block and evalute it’s potential. Though it helped me prepare the outline for this article, I have added my own creativity and thoughts to the subject — importance of soft-skills. I do believe it is important for not only your progress but also for the progress of the people around you. I am also learning as I keep progressing and there is still lot left to learn. Cheers! 
 
