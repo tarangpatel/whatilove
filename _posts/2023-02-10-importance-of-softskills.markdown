@@ -15,11 +15,11 @@ As a follow-up to my previous series, this article is a supplementary read that 
 
 Why do companies and organizations provide training, workshops, and courses for **personal development** more than professional development? Personal development, as the word says, is personal. It should come naturally, right?
 
-There are basically two types of skills: **Hard Skills and Soft Skills.**
+*There are basically two types of skills: **Hard Skills and Soft Skills.***
 
-**Hard Skills:** These include physical skills or mental skills that are important to your job. A software developer has the skills to write great code. Technical people put more effort into learning technical skills. 
+***Hard Skills: **These include physical skills or mental skills that are important to your job. A software developer has the skills to write great code. Technical people put more effort into learning technical skills. *
 
-**Soft Skills:** These are people skills, non-technical, that are required in every field to work efficiently, grow iteratively, and overall be a better person. Most technical people are not even aware of it.
+***Soft Skills: **These are people skills, non-technical, that are required in every field to work efficiently, grow iteratively, and overall be a better person. Most technical people are not even aware of it.*
 
 In reality, every person already has many of the soft skills mentioned below but requires external stimulation to get them into motion. 
 
@@ -53,7 +53,7 @@ Effective communication is crucial for software development.
 
 Good communication is not only required within the team but it is also important to communicate effectively with other teams. Teams that you are dependent on and teams that depend on you. For eg: communication between Front-end, Back-end, and QA is crucial for the success of any software project. 
 
-Communication with stakeholders and customer brings clarity to the work you are doing and answers the most important question — Why you are doing, what you are doing? It can clear companies vision and goals that everyone is working towards.
+Communication with **stakeholders** and **customer** brings **clarity to the work** you are doing and answers the most important question — Why you are doing, what you are doing? It can **clear companies vision and goals** that everyone is working towards. At the same time, it **builds trust, resolves conflicts, manage expectations, **and **improves visibility**.
 
 Improving communication skills involves:
 
@@ -181,7 +181,7 @@ There are many ways to develop your soft skills, including
 
 * **Taking on new challenges and opportunities**
 
-Above mentioned are a few of the many soft skills out there that are important. There are many books and articles written on this subject. Youtube is filled with videos from conference talks, training, and infomercials. You can also check out these [TED Talks](https://enterprisersproject.com/soft-skills-TED-Talks). 
+I am not presenting any new information here. There are tons of [books](https://www.amazon.ca/s?k=soft+skills&crid=2PFO2FXSK0Q7&sprefix=soft+skill%2Caps%2C263&ref=nb_sb_noss_2), [articles](https://www.google.com/search?q=soft+skills+for+software+developers), and [videos](https://www.youtube.com/results?search_query=soft+skills), and [TED Talks](https://enterprisersproject.com/soft-skills-TED-Talks) on soft skills and how to improve them. They provide a deep understanding of the topic with more categories and a detailed plan for improving it. I am also learning as I progress and there is still a lot left to learn.
 
 --- 
 
