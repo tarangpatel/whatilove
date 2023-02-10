@@ -13,11 +13,13 @@ image: /images/softskill.jpg
 
 As a follow-up to my previous series, this article is a supplementary read that compliments the hard skills you have gained in your journey. 
 
-Why do companies and organizations provide training, workshops, and courses for **personal development **more than professional development? Personal development, as the word says, is personal. It should come naturally, right?
+Why do companies and organizations provide training, workshops, and courses for **personal development** more than professional development? Personal development, as the word says, is personal. It should come naturally, right?
 
->  There are basically two types of skills: **Hard Skills and Soft Skills.**
->  **Hard Skills:** These include physical skills or mental skills that are important to your job. A software developer has the skills to write great code. Technical people put more effort into learning technical skills. 
->  **Soft Skills:** These are people skills, non-technical, that are required in every field to work efficiently, grow iteratively, and overall be a better person. Most technical people are not even aware of it.
+There are basically two types of skills: **Hard Skills and Soft Skills.**
+
+**Hard Skills:** These include physical skills or mental skills that are important to your job. A software developer has the skills to write great code. Technical people put more effort into learning technical skills. 
+
+**Soft Skills:** These are people skills, non-technical, that are required in every field to work efficiently, grow iteratively, and overall be a better person. Most technical people are not even aware of it.
 
 In reality, every person already has many of the soft skills mentioned below but requires external stimulation to get them into motion. 
 
@@ -186,4 +188,4 @@ Above mentioned are a few of the many soft skills out there that are important. 
 >  **Full Disclaimer:** I have written this article in collaboration with our new friend, [ChatGPT](https://openai.com/blog/chatgpt/), from [OpenAI](https://openai.com/). I wanted to assess the new kid in the block and evalute it’s potential. Though it helped me prepare the outline for this article, I have added my own creativity and thoughts to the subject — importance of soft-skills. I do believe it is important for not only your progress but also for the progress of the people around you. I am also learning as I keep progressing and there is still lot left to learn. Cheers! 
 
 
-*Post header <a href="https://www.freepik.com/free-vector/soft-skills-concept-illustration_24488084.htm#query=softskills&position=8&from_view=search&track=ais">Image by storyset</a> on Freepik
+*Post header <a href="https://www.freepik.com/free-vector/soft-skills-concept-illustration_24488084.htm#query=softskills&position=8&from_view=search&track=ais">Image by storyset</a> on Freepik*
