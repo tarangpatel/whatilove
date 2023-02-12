@@ -11,7 +11,7 @@ image: /images/softskill.jpg
 
 *The right way to grow from zero to hero*
 
-As a follow-up to my previous series, this article is a supplementary read that compliments the hard skills you have gained in your journey. 
+As a follow-up to my [previous series](http://www.pateltarang.com/blog/beyond-mobile-engineering), this article is a supplementary read that compliments the hard skills you have gained in your journey. 
 
 Why do companies and organizations provide training, workshops, and courses for **personal development** more than professional development? Personal development, as the word says, is personal. It should come naturally, right?
 
