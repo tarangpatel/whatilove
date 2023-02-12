@@ -1,5 +1,6 @@
 ---
 title: Beyond Mobile Engineering - Part 2
+subtitle: Continue on the technical route
 categories: [mobile engineering, career path]
 tags:
   [ mobile engineering,
@@ -7,10 +8,6 @@ tags:
   ]
 image: /images/path.jpg
 ---
-
-# Beyond Mobile Engineering - Part 2
-
-### *Continue on the technical route*
 
 So now that you have chosen to stay with the technical path, let us go a bit deep into it and see what possible options to explore.
 

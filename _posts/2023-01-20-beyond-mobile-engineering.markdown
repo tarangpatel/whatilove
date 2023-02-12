@@ -1,5 +1,6 @@
 ---
 title: Beyond Mobile Engineering - Part 1
+subtitle: What does it take to be more than just a mobile developer? How to grow and break that hypothetical “Glass Ceiling”?
 categories: [mobile engineering, career path]
 tags:
   [ mobile engineering,
@@ -7,10 +8,6 @@ tags:
   ]
 image: /images/path.jpg
 ---
-
-# Beyond Mobile Development - Part 1
-
-### *What does it take to be more than just a mobile developer? How to grow and break that hypothetical “Glass Ceiling”?*
 
 A software developer’s journey begins with entering one specific technology and mastering it as time progresses. Some follow the Full Stack path, whether front-end or back-end, but even in that, they master one language, such as Java, JS, or Python, to build full-stack applications. However, few developers will spread their wings and go horizontal into learning different technologies as time progresses, gaining broad software knowledge and experience.
 

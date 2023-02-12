@@ -1,5 +1,6 @@
 ---
 title: Beyond Mobile Engineering - Part 3
+subtitle: taking the management route
 categories: [mobile engineering, career path]
 tags:
   [ mobile engineering,
@@ -7,9 +8,6 @@ tags:
   ]
 image: /images/path.jpg
 ---
-
-## Beyond Mobile Development — Part 3
-### *taking the management route*
 
 Let's look at the different paths to get out of your comfort zone, venturing into unknown but familiar territory. The path of strategies, policies, governance, and politics. The art and science of managing resources of the business.
 
