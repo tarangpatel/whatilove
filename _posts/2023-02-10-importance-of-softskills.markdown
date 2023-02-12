@@ -17,9 +17,9 @@ Why do companies and organizations provide training, workshops, and courses for 
 
 *There are basically two types of skills: **Hard Skills and Soft Skills.***
 
-***Hard Skills: **These include physical skills or mental skills that are important to your job. A software developer has the skills to write great code. Technical people put more effort into learning technical skills. *
+***Hard Skills:** These include physical skills or mental skills that are important to your job. A software developer has the skills to write great code. Technical people put more effort into learning technical skills.*
 
-***Soft Skills: **These are people skills, non-technical, that are required in every field to work efficiently, grow iteratively, and overall be a better person. Most technical people are not even aware of it.*
+***Soft Skills:** These are people skills, non-technical, that are required in every field to work efficiently, grow iteratively, and overall be a better person. Most technical people are not even aware of it.*
 
 In reality, every person already has many of the soft skills mentioned below but requires external stimulation to get them into motion. 
 
@@ -53,7 +53,7 @@ Effective communication is crucial for software development.
 
 Good communication is not only required within the team but it is also important to communicate effectively with other teams. Teams that you are dependent on and teams that depend on you. For eg: communication between Front-end, Back-end, and QA is crucial for the success of any software project. 
 
-Communication with **stakeholders** and **customer** brings **clarity to the work** you are doing and answers the most important question — Why you are doing, what you are doing? It can **clear companies vision and goals** that everyone is working towards. At the same time, it **builds trust, resolves conflicts, manage expectations, **and **improves visibility**.
+Communication with **stakeholders** and **customer** brings **clarity to the work** you are doing and answers the most important question — Why you are doing, what you are doing? It can **clear companies vision and goals** that everyone is working towards. At the same time, it **builds trust, resolves conflicts, manage expectations, and improves visibility**.
 
 Improving communication skills involves:
 
@@ -185,7 +185,8 @@ I am not presenting any new information here. There are tons of [books](https://
 
 --- 
 
->  **Full Disclaimer:** I have written this article in collaboration with our new friend, [ChatGPT](https://openai.com/blog/chatgpt/), from [OpenAI](https://openai.com/). I wanted to assess the new kid in the block and evalute it’s potential. Though it helped me prepare the outline for this article, I have added my own creativity and thoughts to the subject — importance of soft-skills. I do believe it is important for not only your progress but also for the progress of the people around you. I am also learning as I keep progressing and there is still lot left to learn. Cheers! 
+>  **Full Disclaimer:** I have written this article in collaboration with our new friend, [ChatGPT](https://openai.com/blog/chatgpt/), from [OpenAI](https://openai.com/). I wanted to assess the new kid in the block and evalute it’s potential. More on it in my next artcile.
+Though it helped me prepare the outline for this article, I have added my own creativity and thoughts to the subject — importance of soft-skills. I do believe it is important for not only your progress but also for the progress of the people around you. I am also learning as I keep progressing and there is still lot left to learn. Cheers! 
 
 
 *Post header <a href="https://www.freepik.com/free-vector/soft-skills-concept-illustration_24488084.htm#query=softskills&position=8&from_view=search&track=ais">Image by storyset</a> on Freepik*
