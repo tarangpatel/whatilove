@@ -1,13 +1,11 @@
 ---
 title: Importance of Soft Skills
+subtitle: The right way to grow from zero to hero
 categories: [software development, career growth, personal growth]
 tags:
   [ software development, career growth, personal growth]
 image: /images/softskill.jpg
 ---
-
-
-## Importance of Soft-Skills
 
 *The right way to grow from zero to hero*
 
