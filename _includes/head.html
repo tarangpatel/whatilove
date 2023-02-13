@@ -48,22 +48,9 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2532301404402548" crossorigin="anonymous"></script>
   
   <style>
-    {
-      % capture include_to_scssify %
-    }
-
-      {
-      % include main.scss %
-    }
-
-      {
-      % endcapture %
-    }
-
-      {
-        {
-        include_to_scssify | scssify
-      }
-    }
+  {% capture include_to_scssify %}
+    {% include main.scss %}
+  {% endcapture %}
+  {{ include_to_scssify | scssify }}
   </style>
 </head>
