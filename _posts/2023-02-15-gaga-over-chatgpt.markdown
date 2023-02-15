@@ -67,7 +67,7 @@ Many developers don’t know what are [SOLID principles](https://www.freecodecam
 ### Generating boilerplate code
 
 You can ask AI tools like ChatGPT to generate boilerplate code to speed up the development. ChatGPT can create pretty good code in the language you mentioned. 
-I asked ChatGPT  to create a code for loading image asynchronously in SwiftUI using Combine framework. I copied the code and tried it out. It worked. 
+I asked ChatGPT  to create a code for loading images asynchronously in SwiftUI using the Combine framework. I copied the code and tried it out. It worked.
 
 ![](/images/GAGA/C_1.png)
 
@@ -75,45 +75,45 @@ Now I can continue with my other tasks to add complex routing in the app, setup 
 
 ### Write Complex Algorithm
 
-A good software engineer should know algorithm and data structures. These not only forms the basics of most interview questions but it is forms the core of learning user behaviour, oiptmize performance or convert transform data from real world to virtual. 
+A good software engineer should know algorithms and data structures. These not only form the basics of most interview questions but are the core of learning user behavior, optimizing performance, or transforming data from the real world to the virtual. 
 
-I asked ChatGPT to write an A* algorithm, to find shortest path in a maze. I remember during my capstone project we created maze solving robot and writing these algorithms were pain. 
+I asked ChatGPT to write an A* algorithm, to find the shortest path in a maze. I remember during my capstone project we created maze solving robot and writing these algorithms was a pain. 
 
 ![](/images/GAGA/C_2.png)
 
 ### Generate Complex Regex
 
-This is a great example where tools like ChatGPT can be super useful. You just express what you want in simple English. There are snippets available online covering almost every possibilities but in case you have a very specific need it can save lot of time.
+This is a great example of where tools like ChatGPT can be super useful. You just express what you want in simple English. There are snippets available online covering almost every possibility but in case you have a very specific need it can save a lot of time.
 
 ![](/images/GAGA/C_3.png)
 
 ### Optimize and refactor
 
-Software developers are not known to always write beautiful, structured and easy to understand code.
+Software developers are not known to always write beautiful, structured, and easy-to-understand code.
 
-ChatGPT can help analyze the complex logic and break down into smaller units that are easy to comprehend. 
+ChatGPT can help analyze complex logic and break it down into smaller units that are easy to comprehend. 
 
-Code optimization do not take place right away. Developers generally write code in natural flow of the language using premitive data types and available patterns. Optimization will follow when the need to improve space and time complexity arises for better performance. AI tools can help optimize even without human interventions by becoming part of CI/CD process. 
+Code optimization does not take place right away. Developers generally write code in the natural flow of the language using primitive data types and available patterns. Optimization will follow when the need to improve space and time complexity arises for better performance. AI tools can help optimize even without human interventions by becoming part of the CI/CD process.
 
 ### Write Unit Tests
 
-TDD is hot topic, everyone wants to apply it but many never end up doing it. Writing a good unit test takes time and effort. But as the result of unit tests are visible right away and are not customer centric, it mostly get the backseat and often forgotten about. 
+TDD is a hot topic, everyone wants to apply it but many never end up doing it. Writing a good unit test takes time and effort. But as the result of unit tests are visible right away and are not customer-centric, they mostly get the backseat and are often forgotten about. 
 
-AI tools can write test cases for us. Give it a piece of code and ask it to write test cases. For eg: I gave a random function to extract substrings from a String and it gave me good amount of test cases to start with.
+AI tools can write test cases for us. Give it a piece of code and ask it to write test cases. For eg: I gave a random function to extract substrings from a String and it gave me a good amount of test cases to start with.
 
 ![](/images/GAGA/C_4.png)
 
 ### Generate Code documentation
 
-Another major part of any software is a proper documentation. Software developers do add comments to the code base often they are not properly structured or do not provide required explanation. 
+Another major part of any software is proper documentation. Software developers do add comments to the code base often they are not properly structured or do not provide the required explanation. 
 
-AI tools can help write proper comments and in turn produce useful documentation when connected with a document generator tools like [Doxygen](https://www.doxygen.nl/) or [DocC for Swift](https://www.swift.org/blog/swift-docc/).
+AI tools can help write proper comments and in turn produce useful documentation when connected with document generator tools like  [Doxygen](https://www.doxygen.nl/) or [DocC for Swift](https://www.swift.org/blog/swift-docc/).
 
 ### Tech debt
 
 Many software products have a huge problem of mounting [tech debt](https://en.wikipedia.org/wiki/Technical_debt). This is inevitable due to the complex hierarchy of decision-making and the urgency to lead the market to capture the customers. 
 
-AI can help reduce tech debt by apply some of the above processes or can help developers focus on resolving tech debt which they never got a chance to do so. 
+AI can help reduce tech debt by applying some of the above processes or can help developers focus on resolving tech debt which they never got a chance to do so. 
 
 ### Cybersecurity
 
@@ -129,6 +129,6 @@ I am not an expert in cybersecurity but you can follow lots of [articles](https:
 
 ## Conclusion
 
-In conclusion all these new fancy AI tools are useful in many ways. It can help speed up development without adding cost in the process. It can help solve major world problems like climate change, detect and prevent new viruses, avoid food crisis, etc… if used in right way. It is collaborative effort of tech companies, government and individual to use these properly and ethically by creating right governance and regulations.  
+In conclusion, all these new fancy AI tools are useful in many ways. It can help speed up development without adding cost to the process. It can help solve major world problems like climate change, detect and prevent new viruses, prevent global food crisis, etc… if used in the right way. It is a collaborative effort of tech companies, governments, and individuals to use these properly and ethically by creating the right governance and regulations.
 
-***Thought process has  to be changed, new skills need to be acquired but no jobs should be lost.***
+***The thought process has  to be changed, and new skills need to be acquired but no jobs should be lost.***
