@@ -69,7 +69,7 @@ Many developers don’t know what are [SOLID principles](https://www.freecodecam
 You can ask AI tools like ChatGPT to generate boilerplate code to speed up the development. ChatGPT can create pretty good code in the language you mentioned. 
 I asked ChatGPT  to create a code for loading image asynchronously in SwiftUI using Combine framework. I copied the code and tried it out. It worked. 
 
-![](https://cdn-images-1.medium.com/max/3204/1*VxIQ3JYGcl_2lzV0gV5lGQ.png)
+![](/images/GAGA/C_1.png)
 
 Now I can continue with my other tasks to add complex routing in the app, setup data models, create view models, etc…
 
@@ -79,13 +79,13 @@ A good software engineer should know algorithm and data structures. These not on
 
 I asked ChatGPT to write an A* algorithm, to find shortest path in a maze. I remember during my capstone project we created maze solving robot and writing these algorithms were pain. 
 
-![](https://cdn-images-1.medium.com/max/3212/1*phQuC8_VwsQynqUlaJouIg.png)
+![](/images/GAGA/C_2.png)
 
 ### Generate Complex Regex
 
 This is a great example where tools like ChatGPT can be super useful. You just express what you want in simple English. There are snippets available online covering almost every possibilities but in case you have a very specific need it can save lot of time.
 
-![](https://cdn-images-1.medium.com/max/3220/1*gfMhQFlgSGDUh0mfZTBDpQ.png)
+![](/images/GAGA/C_3.png)
 
 ### Optimize and refactor
 
@@ -101,7 +101,7 @@ TDD is hot topic, everyone wants to apply it but many never end up doing it. Wri
 
 AI tools can write test cases for us. Give it a piece of code and ask it to write test cases. For eg: I gave a random function to extract substrings from a String and it gave me good amount of test cases to start with.
 
-![](https://cdn-images-1.medium.com/max/3172/1*SXfcQq9AwJ1SFmvVrNtTEg.png)
+![](/images/GAGA/C_4.png)
 
 ### Generate Code documentation
 
