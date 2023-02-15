@@ -62,7 +62,7 @@ Sure, there will be a huge burst in content and app creation which can be flat, 
 
 I completely agree. It takes more to be a great software professional than copy-pasting code from some code generator. 
 
-Many developers don’t know what are [SOLID principles](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/) or [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)**, and that too after quite a few years of development experience gaining a Sr. title. This is the first thing they should learn.
+Many developers don’t know what are [SOLID principles](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/) or [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), and that too after quite a few years of development experience gaining a Sr. title. This is the first thing they should learn.
 
 ### Generating boilerplate code
 
