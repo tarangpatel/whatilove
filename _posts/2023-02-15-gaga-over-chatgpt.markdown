@@ -1,9 +1,9 @@
 ---
 title: Going gaga over ChatGPT and beyond
 subtitle: from creating art and apps to stealing jobs
-categories: [software development, career growth, personal growth]
+categories: [software development, Artificial Intelligence, ChatGPT, OpenAI]
 tags:
-  [ software development, career growth, personal growth]
+  [ software development, Artificial Intelligence, ChatGPT, OpenAI]
 image: /images/GagaChatGPT.jpg
 ---
 
