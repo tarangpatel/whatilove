@@ -4,7 +4,7 @@ subtitle: from creating art and apps to stealing jobs
 categories: [software development, career growth, personal growth]
 tags:
   [ software development, career growth, personal growth]
-image: /images/softskill.jpg
+image: /images/GagaChatGPT.png
 ---
 
 I am not sure if AI will steal jobs in the future, but it is definitely stealing everybody’s attention right now. 
@@ -41,7 +41,7 @@ I came across this article, [From Zero to App Store With ChatGPT](https://better
 
 ### Create a video
 
-Then we have this, [How to Make AI YouTube Videos with ChatGPT in Minutes!](https://www.youtube.com/watch?v=PPmGYE38o50&t=691s), which shows step by step process to create youtube videos. The presenter uses **ChatGPT to create a script**, **Pictory.ai to generate a video **from the script, and **Murf.ai to add audio** to the video. Though this makes a good informational video, not a cinematic one, it is still a huge saving in content creation. 
+Then we have this, [How to Make AI YouTube Videos with ChatGPT in Minutes!](https://www.youtube.com/watch?v=PPmGYE38o50&t=691s), which shows step by step process to create youtube videos. The presenter uses **ChatGPT to create a script**, **Pictory.ai to generate a video** from the script, and **Murf.ai to add audio** to the video. Though this makes a good informational video, not a cinematic one, it is still a huge saving in content creation. 
 
 ### Sell digital products
 
@@ -58,11 +58,11 @@ It is easy to instantly think about the downside of any AI tools because the gen
 Sure, there will be a huge burst in content and app creation which can be flat, boring, repetitive, and might give upright wrong information unless there is human involvement in the process of creation. 
 
 ## Software Development
->  Developers will no longer have to write boilerplate code, Gupta said. Instead, they can focus on areas such as complex application architecture or cybersecurity. — [Abhishek Gupta, founder and principal researcher at the Montreal AI Ethics Institute.](https://www.techtarget.com/searchsoftwarequality/news/252528379/ChatGPT-writes-code-but-wont-replace-developers)
+>  *Developers will no longer have to write boilerplate code, Gupta said. Instead, they can focus on areas such as complex application architecture or cybersecurity. — [Abhishek Gupta, founder and principal researcher at the Montreal AI Ethics Institute.](https://www.techtarget.com/searchsoftwarequality/news/252528379/ChatGPT-writes-code-but-wont-replace-developers)*
 
 I completely agree. It takes more to be a great software professional than copy-pasting code from some code generator. 
 
-Many developers don’t know what are [**SOLID principles](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/) or [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)**, and that too after quite a few years of development experience gaining a Sr. title. This is the first thing they should learn.
+Many developers don’t know what are [SOLID principles](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/) or [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)**, and that too after quite a few years of development experience gaining a Sr. title. This is the first thing they should learn.
 
 ### Generating boilerplate code
 
@@ -111,7 +111,7 @@ AI tools can help write proper comments and in turn produce useful documentation
 
 ### Tech debt
 
-Many software products have a huge problem of mounting [**tech debt](https://en.wikipedia.org/wiki/Technical_debt)**. This is inevitable due to the complex hierarchy of decision-making and the urgency to lead the market to capture the customers. 
+Many software products have a huge problem of mounting [tech debt](https://en.wikipedia.org/wiki/Technical_debt). This is inevitable due to the complex hierarchy of decision-making and the urgency to lead the market to capture the customers. 
 
 AI can help reduce tech debt by apply some of the above processes or can help developers focus on resolving tech debt which they never got a chance to do so. 
 
@@ -131,4 +131,4 @@ I am not an expert in cybersecurity but you can follow lots of [articles](https:
 
 In conclusion all these new fancy AI tools are useful in many ways. It can help speed up development without adding cost in the process. It can help solve major world problems like climate change, detect and prevent new viruses, avoid food crisis, etc… if used in right way. It is collaborative effort of tech companies, government and individual to use these properly and ethically by creating right governance and regulations.  
 
-Thought process has  to be changed, new skills need to be acquired but no jobs should be lost.
+***Thought process has  to be changed, new skills need to be acquired but no jobs should be lost.***
