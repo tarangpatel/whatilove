@@ -13,7 +13,7 @@ Are you fascinated by the magic of ChatGPT and AI in general? Trust me, as a sof
 
 Brilliant minds of researchers, scientists, and engineers have created intricate algorithms weaving  into deep, complex learning layers that have culminated into a brain-like product. This is indeed fascinating in itself.
 
-So, I finally got some time to try OpenAI’s ChatGPT, and the first thing I asked was to write this article. I know ethics and all, but I am only human. Humans will do whatever it takes to improve their life. We have been using machines to make our life easier since the invention of machines; it has gotten only better over time. 
+So, I finally got some time to try OpenAI’s ChatGPT, and the first thing I asked was to write this article. I know ethics and all, but I am only human. Humans will do whatever it takes to improve their life. We have been using machines to make our life easier since the invention of machines; it has only gotten better over time.
 
 * Google search was the first invention we used to find information online. It changed how we communicate, learn and seek help. 
 
@@ -62,14 +62,73 @@ Sure, there will be a huge burst in content and app creation which can be flat, 
 
 I completely agree. It takes more to be a great software professional than copy-pasting code from some code generator. 
 
+Many developers don’t know what are [**SOLID principles](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/) or [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)**, and that too after quite a few years of development experience gaining a Sr. title. This is the first thing they should learn.
+
+### Generating boilerplate code
+
+You can ask AI tools like ChatGPT to generate boilerplate code to speed up the development. ChatGPT can create pretty good code in the language you mentioned. 
+I asked ChatGPT  to create a code for loading image asynchronously in SwiftUI using Combine framework. I copied the code and tried it out. It worked. 
+
+![](https://cdn-images-1.medium.com/max/3204/1*VxIQ3JYGcl_2lzV0gV5lGQ.png)
+
+Now I can continue with my other tasks to add complex routing in the app, setup data models, create view models, etc…
+
+### Write Complex Algorithm
+
+A good software engineer should know algorithm and data structures. These not only forms the basics of most interview questions but it is forms the core of learning user behaviour, oiptmize performance or convert transform data from real world to virtual. 
+
+I asked ChatGPT to write an A* algorithm, to find shortest path in a maze. I remember during my capstone project we created maze solving robot and writing these algorithms were pain. 
+
+![](https://cdn-images-1.medium.com/max/3212/1*phQuC8_VwsQynqUlaJouIg.png)
+
+### Generate Complex Regex
+
+This is a great example where tools like ChatGPT can be super useful. You just express what you want in simple English. There are snippets available online covering almost every possibilities but in case you have a very specific need it can save lot of time.
+
+![](https://cdn-images-1.medium.com/max/3220/1*gfMhQFlgSGDUh0mfZTBDpQ.png)
+
+### Optimize and refactor
+
+Software developers are not known to always write beautiful, structured and easy to understand code.
+
+ChatGPT can help analyze the complex logic and break down into smaller units that are easy to comprehend. 
+
+Code optimization do not take place right away. Developers generally write code in natural flow of the language using premitive data types and available patterns. Optimization will follow when the need to improve space and time complexity arises for better performance. AI tools can help optimize even without human interventions by becoming part of CI/CD process. 
+
+### Write Unit Tests
+
+TDD is hot topic, everyone wants to apply it but many never end up doing it. Writing a good unit test takes time and effort. But as the result of unit tests are visible right away and are not customer centric, it mostly get the backseat and often forgotten about. 
+
+AI tools can write test cases for us. Give it a piece of code and ask it to write test cases. For eg: I gave a random function to extract substrings from a String and it gave me good amount of test cases to start with.
+
+![](https://cdn-images-1.medium.com/max/3172/1*SXfcQq9AwJ1SFmvVrNtTEg.png)
+
+### Generate Code documentation
+
+Another major part of any software is a proper documentation. Software developers do add comments to the code base often they are not properly structured or do not provide required explanation. 
+
+AI tools can help write proper comments and in turn produce useful documentation when connected with a document generator tools like [Doxygen](https://www.doxygen.nl/) or [DocC for Swift](https://www.swift.org/blog/swift-docc/).
+
 ### Tech debt
 
 Many software products have a huge problem of mounting [**tech debt](https://en.wikipedia.org/wiki/Technical_debt)**. This is inevitable due to the complex hierarchy of decision-making and the urgency to lead the market to capture the customers. 
 
-AI can help reduce tech debt or can help developers focus on tech debt which they never got a chance to do so. 
+AI can help reduce tech debt by apply some of the above processes or can help developers focus on resolving tech debt which they never got a chance to do so. 
 
-### Security
+### Cybersecurity
 
-With the rise in climate change, and geopolitical and economic tensions, securing 
+With the rise in climate change and geopolitical and economic tensions, securing software applications is getting heights attention. 
 
-Many developers don’t know what are [**SOLID principles](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/) or [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)**, and that too after quite a few years of development experience gaining a Sr. title. This is the first thing they should learn. 
+There has been a lot of independent research conducted on how ChatGPT answers security-related questions. 
+
+In one research we can learn about what security is, how to find vulnerabilities, analyze malware, and steps on how to prevent a cyber-attack. 
+
+In another research, novice cybercriminals have reported how they use ChatGPT to create new Trojans, create Phishing emails, and also answer critical social engineering questions. 
+
+I am not an expert in cybersecurity but you can follow lots of [articles](https://www.google.com/search?q=chatgpt+cyber+security) and videos online. 
+
+## Conclusion
+
+In conclusion all these new fancy AI tools are useful in many ways. It can help speed up development without adding cost in the process. It can help solve major world problems like climate change, detect and prevent new viruses, avoid food crisis, etc… if used in right way. It is collaborative effort of tech companies, government and individual to use these properly and ethically by creating right governance and regulations.  
+
+Thought process has  to be changed, new skills need to be acquired but no jobs should be lost.
