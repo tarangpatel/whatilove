@@ -4,7 +4,7 @@ subtitle: from creating art and apps to stealing jobs
 categories: [software development, career growth, personal growth]
 tags:
   [ software development, career growth, personal growth]
-image: /images/GagaChatGPT.png
+image: /images/GagaChatGPT.jpg
 ---
 
 I am not sure if AI will steal jobs in the future, but it is definitely stealing everybody’s attention right now. 
