@@ -67,6 +67,7 @@ Many developers don’t know what are [SOLID principles](https://www.freecodecam
 ### Generating boilerplate code
 
 You can ask AI tools like ChatGPT to generate boilerplate code to speed up the development. ChatGPT can create pretty good code in the language you mentioned. 
+
 I asked ChatGPT  to create a code for loading images asynchronously in SwiftUI using the Combine framework. I copied the code and tried it out. It worked.
 
 ![](/images/GAGA/C_1.png)
