@@ -4,7 +4,7 @@ subtitle: the flow of energy between team members and its impact on the workflow
 categories: [software development, team ]
 tags:
   [ software development, team ]
-image: /images/GagaChatGPT.jpg
+image: /images/TeamDynamics/TD_Head.jpg
 ---
 
 Either you are working in a team or are an independent contributor; you are part of any given team by default.
