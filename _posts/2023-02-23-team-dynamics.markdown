@@ -36,7 +36,7 @@ As we went remote we mostly started following a later one where we message someo
 
 Software Developers typically work in two kinds of team structures **Agile and non-Agile**. 
 
-![](/images/TeamDynamics/TD_1.png)
+![Agile vs Traditional](/images/TeamDynamics/TD_1.png)
 
 ### Agile
 
@@ -70,11 +70,11 @@ What I would like to highlight is the **Team Dynamics** within those team struct
 
 Developers in **small organizations or startups** generally have a good vision of the end product they are working towards. They are able to see the big picture and are all working towards creating the end product and making it better. This demands more work from a small team but the sense of achievement can be higher in the end.
 
-![](/images/TeamDynamics/TD_2.png)
+![Small team dynamics](/images/TeamDynamics/TD_2.png)
 
 Developers in a **large organization** are often distributed in multiple teams. They do not always have a clear bigger picture. They are working towards smaller goals, also known as features, which when combined with other features make the end product. Here developers are focused and though they might not touch every code base, they have a lot of opportunities to master the given domain.
 
-![](/images/TeamDynamics/TD_3.png)
+![Large team dynamics](/images/TeamDynamics/TD_3.png)
 
 No matter how small or big teams you are working in, there is always a **constant flow of energy** among the developers. In **smaller teams energy between individual developer** is important but in **large distributed teams, the energy between the teams** are as important as well. 
 
@@ -113,4 +113,9 @@ Also being able to control and transform the negative energy received from exter
 
 So in this essay, we have seen how important Team Dynamics and what are factors affect team dynamics. We also saw how an individual’s energy flow in the team, what are the impacts, and how to overcome negative energy. 
 
+By applying the [soft-skills](http://www.pateltarang.com/blog/importance-of-softskills) we learned in previous article, Team Dynamics can help you progress in your [career path](http://www.pateltarang.com/blog/beyond-mobile-engineering) and help build strong work relationships.  
+
 If you like this article please share and let me know your opinion.
+
+
+*Post header <a href="https://pngtree.com/freepng/team-collaborative-person-illustration_6429879.html">Image by pngtree</a>*
