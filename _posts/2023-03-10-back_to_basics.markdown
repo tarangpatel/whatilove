@@ -45,7 +45,7 @@ So you see, if you know C/C++ you can understand Core libraries better. If you k
 
 I am not saying you cannot achieve success just by knowing the current hot technology available at your disposal. But knowing the basics will give you a boost and will distinguish you from others. 
 
-You can apply this to **Android **apps too. Using Compose should know Kotlin, should know Android Java, should know real Java, etc… 
+You can apply this to **Android** apps too. Using Compose should know Kotlin, should know Android Java, should know real Java, etc… 
 
 ### Tech
 
