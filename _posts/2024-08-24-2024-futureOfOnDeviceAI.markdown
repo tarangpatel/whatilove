@@ -117,7 +117,7 @@ The limited computational power and storage capacity of mobile devices create ch
 
 Nonetheless, ongoing advancements in this area hold promise for more robust and private AI solutions in the future.
 
-On Device AI Examples:
+#### On Device AI Examples:
 
 - General AI:
     - iOS: [https://developer.apple.com/documentation/coreml/](https://developer.apple.com/documentation/coreml/)
@@ -142,7 +142,13 @@ Meanwhile, more resource-intensive operations, such as advanced natural language
 
 ### [Google ASTRA](https://deepmind.google/technologies/gemini/project-astra/)
 
-Google's Project Astra aims to utilize both on-device and cloud-based models to deliver its advanced AI capabilities. This hybrid approach allows Astra to leverage the power of cloud computing for complex tasks while maintaining privacy and responsiveness through on-device processing[9][10]. By combining local and remote resources, Astra can offer real-time, context-aware responses across various devices, from smartphones to smart home gadgets[10]. This dual-model strategy enables Astra to balance performance, privacy, and battery life considerations, making it a versatile AI assistant for everyday use[11].
+Google's Project Astra aims to utilize both on-device and cloud-based models to deliver its advanced AI capabilities. 
+
+This hybrid approach allows Astra to leverage the power of cloud computing for complex tasks while maintaining privacy and responsiveness through on-device processing[9][10]. 
+
+By combining local and remote resources, Astra can offer real-time, context-aware responses across various devices, from smartphones to smart home gadgets[10]. 
+
+This dual-model strategy enables Astra to balance performance, privacy, and battery life considerations, making it a versatile AI assistant for everyday use[11].
 
 ### Seamless Integration
 
@@ -156,7 +162,13 @@ The hybrid model bridges this gap, offering a comprehensive and secure user expe
 
 ## Conclusion
 
-The future of mobile applications lies in the intelligent integration of AI technologies, which promise to revolutionize user experiences through enhanced capabilities and personalization. However, the journey towards this future must also address the significant privacy concerns that come with cloud-based AI models. Emerging solutions like on-device LLMs and hybrid approaches exemplified by Apple's Apple Intelligence offer promising pathways to balance functionality and privacy. As these technologies continue to evolve, we can look forward to a new era of mobile applications that provide a holistic and secure experience, seamlessly blending voice, images, and text to meet the diverse needs of users.
+The future of mobile applications lies in the intelligent integration of AI technologies, which promise to revolutionize user experiences through enhanced capabilities and personalization. 
+
+However, the journey towards this future must also address the significant privacy concerns that come with cloud-based AI models. 
+
+Emerging solutions like on-device LLMs and hybrid approaches exemplified by Apple's Apple Intelligence offer promising pathways to balance functionality and privacy. 
+
+As these technologies continue to evolve, we can look forward to a new era of mobile applications that provide a holistic and secure experience, seamlessly blending voice, images, and text to meet the diverse needs of users.
 
 [Citations](#citations)
 
