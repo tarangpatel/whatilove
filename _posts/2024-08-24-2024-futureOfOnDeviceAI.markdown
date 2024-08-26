@@ -33,7 +33,7 @@ Early forms of AI-powered image processing began to appear in smartphones in the
 - Automatic scene recognition: Helped optimize camera settings based on the environment.
 
 ### Personalization and Recommendations
-  
+
 Basic AI algorithms were used to provide personalized experiences:
 
 - App recommendations: Suggesting apps based on usage patterns.
@@ -159,20 +159,21 @@ The hybrid model bridges this gap, offering a comprehensive and secure user expe
 The future of mobile applications lies in the intelligent integration of AI technologies, which promise to revolutionize user experiences through enhanced capabilities and personalization. However, the journey towards this future must also address the significant privacy concerns that come with cloud-based AI models. Emerging solutions like on-device LLMs and hybrid approaches exemplified by Apple's Apple Intelligence offer promising pathways to balance functionality and privacy. As these technologies continue to evolve, we can look forward to a new era of mobile applications that provide a holistic and secure experience, seamlessly blending voice, images, and text to meet the diverse needs of users.
 
 [Citations](#citations)
-[1] [https://blogs.idc.com/2024/07/05/the-rise-of-gen-ai-smartphones/](https://blogs.idc.com/2024/07/05/the-rise-of-gen-ai-smartphones/)
-[2] [https://www.cnet.com/tech/mobile/ai-is-changing-our-phones-and-its-just-getting-started/](https://www.cnet.com/tech/mobile/ai-is-changing-our-phones-and-its-just-getting-started/)
-[3] [https://www.algolia.com/blog/ux/mobile-apps-and-mobile-app-search-the-past-present-and-future/](https://www.algolia.com/blog/ux/mobile-apps-and-mobile-app-search-the-past-present-and-future/)
-[4] [https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html](https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html)
-[5] [https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai/](https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai/)
-[6] [https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence)
-[7] [https://www.textmagic.com/blog/smartphone-history-from-the-first-cell-phone-to-the-iphone-and-beyond/](https://www.textmagic.com/blog/smartphone-history-from-the-first-cell-phone-to-the-iphone-and-beyond/)
-[8] [https://www.qualcomm.com/news/onq/2024/04/beyond-smart-the-rise-of-generative-ai-smartphones](https://www.qualcomm.com/news/onq/2024/04/beyond-smart-the-rise-of-generative-ai-smartphones)
-[9] [https://www.talentelgia.com/blog/google-project-astra/](https://www.talentelgia.com/blog/google-project-astra/)
-[10] [https://play.ht/blog/project-astra/](https://play.ht/blog/project-astra/)
-[11] [https://www.zdnet.com/article/i-demoed-googles-project-astra-and-it-felt-like-the-future-of-generative-ai-until-it-didnt/](https://www.zdnet.com/article/i-demoed-googles-project-astra-and-it-felt-like-the-future-of-generative-ai-until-it-didnt/)
-[12] [https://www.engadget.com/google-project-astra-hands-on-full-of-potential-but-its-going-to-be-a-while-235607743.html](https://www.engadget.com/google-project-astra-hands-on-full-of-potential-but-its-going-to-be-a-while-235607743.html)
-[13] [https://www.sify.com/ai-analytics/googles-project-astra-an-overview-of-future-ai-assistants/](https://www.sify.com/ai-analytics/googles-project-astra-an-overview-of-future-ai-assistants/)
-[14] [https://thegadgetflow.com/blog/everything-we-know-about-googles-project-astra-so-far/](https://thegadgetflow.com/blog/everything-we-know-about-googles-project-astra-so-far/)
-[15] [https://www.youtube.com/watch?v=qjgeFtxN9iw](https://www.youtube.com/watch?v=qjgeFtxN9iw)
-[16] [https://deepmind.google/technologies/gemini/project-astra/](https://deepmind.google/technologies/gemini/project-astra/)
-[17] [https://www.nomtek.com/blog/opportunities-on-device-ai](https://www.nomtek.com/blog/opportunities-on-device-ai)
+
+- [1] [https://blogs.idc.com/2024/07/05/the-rise-of-gen-ai-smartphones/](https://blogs.idc.com/2024/07/05/the-rise-of-gen-ai-smartphones/)
+- [2] [https://www.cnet.com/tech/mobile/ai-is-changing-our-phones-and-its-just-getting-started/](https://www.cnet.com/tech/mobile/ai-is-changing-our-phones-and-its-just-getting-started/)
+- [3] [https://www.algolia.com/blog/ux/mobile-apps-and-mobile-app-search-the-past-present-and-future/](https://www.algolia.com/blog/ux/mobile-apps-and-mobile-app-search-the-past-present-and-future/)
+- [4] [https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html](https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html)
+- [5] [https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai/](https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai/)
+- [6] [https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence)
+- [7] [https://www.textmagic.com/blog/smartphone-history-from-the-first-cell-phone-to-the-iphone-and-beyond/](https://www.textmagic.com/blog/smartphone-history-from-the-first-cell-phone-to-the-iphone-and-beyond/)
+- [8] [https://www.qualcomm.com/news/onq/2024/04/beyond-smart-the-rise-of-generative-ai-smartphones](https://www.qualcomm.com/news/onq/2024/04/beyond-smart-the-rise-of-generative-ai-smartphones)
+- [9] [https://www.talentelgia.com/blog/google-project-astra/](https://www.talentelgia.com/blog/google-project-astra/)
+- [10] [https://play.ht/blog/project-astra/](https://play.ht/blog/project-astra/)
+- [11] [https://www.zdnet.com/article/i-demoed-googles-project-astra-and-it-felt-like-the-future-of-generative-ai-until-it-didnt/](https://www.zdnet.com/article/i-demoed-googles-project-astra-and-it-felt-like-the-future-of-generative-ai-until-it-didnt/)
+- [12] [https://www.engadget.com/google-project-astra-hands-on-full-of-potential-but-its-going-to-be-a-while-235607743.html](https://www.engadget.com/google-project-astra-hands-on-full-of-potential-but-its-going-to-be-a-while-235607743.html)
+- [13] [https://www.sify.com/ai-analytics/googles-project-astra-an-overview-of-future-ai-assistants/](https://www.sify.com/ai-analytics/googles-project-astra-an-overview-of-future-ai-assistants/)
+- [14] [https://thegadgetflow.com/blog/everything-we-know-about-googles-project-astra-so-far/](https://thegadgetflow.com/blog/everything-we-know-about-googles-project-astra-so-far/)
+- [15] [https://www.youtube.com/watch?v=qjgeFtxN9iw](https://www.youtube.com/watch?v=qjgeFtxN9iw)
+- [16] [https://deepmind.google/technologies/gemini/project-astra/](https://deepmind.google/technologies/gemini/project-astra/)
+- [17] [https://www.nomtek.com/blog/opportunities-on-device-ai](https://www.nomtek.com/blog/opportunities-on-device-ai)
