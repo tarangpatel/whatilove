@@ -22,34 +22,37 @@ One of the earliest and most prominent AI features in mobile devices was voice r
 
 These features used basic machine learning algorithms to improve text input:
 
-- [T9](https://en.wikipedia.org/wiki/T9_(predictive_text)) (Text on 9 keys): Introduced in the late 1990s for feature phones, it used predictive text technology to guess words based on key presses.
-- [Swype](https://en.wikipedia.org/wiki/Swype): Launched in 2009, it used AI to predict words as users swipe their fingers across the keyboard.
+- **[T9](https://en.wikipedia.org/wiki/T9_(predictive_text)) (Text on 9 keys):** Introduced in the late 1990s for feature phones, it used predictive text technology to guess words based on key presses.
+- **[Swype](https://en.wikipedia.org/wiki/Swype):** Launched in 2009, it used AI to predict words as users swipe their fingers across the keyboard.
 
 ### Image Recognition and Processing
 
 Early forms of AI-powered image processing began to appear in smartphones in the early 2010s:
 
-- Face detection: Used for focusing and image organization.
-- Automatic scene recognition: Helped optimize camera settings based on the environment.
+- **Face detection:** Used for focusing and image organization.
+- **Automatic scene recognition:** Helped optimize camera settings based on the environment.
 
 ### Personalization and Recommendations
 
 Basic AI algorithms were used to provide personalized experiences:
 
-- App recommendations: Suggesting apps based on usage patterns.
-- Content recommendations: Offering personalized news feeds and content suggestions.
+- **App recommendations:** Suggesting apps based on usage patterns.
+- **Content recommendations:** Offering personalized news feeds and content suggestions.
 
 ### Battery Optimization
 
 Early forms of AI were used to analyze usage patterns and optimize battery life:
 
-- Adaptive Battery: Introduced by Google in Android 9 Pie (2018), it used machine learning to prioritize battery power for frequently used apps.
+- **Adaptive Battery:** Introduced by Google in Android 9 Pie (2018), it used machine learning to prioritize battery power for frequently used apps.
+
 
 While these early AI features may seem rudimentary compared to today's advanced AI-powered smartphones, they laid the foundation for the more sophisticated AI capabilities we see in modern devices. The integration of AI in mobile devices has accelerated rapidly in recent years, with the introduction of on-device machine learning, advanced natural language processing, and generative AI features[1].
 
 As technology continues to evolve, mobile applications are at the forefront of innovation, integrating advanced AI technologies like Generative AI (GenAI) and Large Language Models (LLMs) to enhance user engagement and provide groundbreaking solutions. However, the integration of these technologies also raises significant privacy concerns, particularly as they often rely on cloud computing. 
 
 This blog post will explore the future of mobile applications by examining the role of AI, the emerging privacy solutions, and the hybrid approaches that promise a more holistic user experience.
+
+---
 
 # Present in progress
 
@@ -63,7 +66,7 @@ Applications like chatbots, virtual assistants, and personalized content recomme
 
 One of the primary benefits of AI integration is the ability to provide personalized experiences. 
 
-By analyzing user behavior and preferences, AI can tailor content, recommendations, and interactions to each individual user.
+By analyzing user behavior and preferences, AI can tailor content, recommendations, and interactions to each individual.
 
 This level of personalization not only enhances user satisfaction but also increases engagement and retention. 
 
@@ -90,6 +93,8 @@ Similarly, voice recognition enables hands-free operation and accessibility feat
 The integration of these technologies creates a seamless and intuitive user experience, blurring the lines between human and machine interactions.
 
 These integration of AI systems are mostly through cloud platforms. Most apps use OpenAI, Claude, Amazon AI or a mix of other SaaS applications to provide the best possible solution. 
+
+---
 
 # Concerning Future
 
@@ -132,6 +137,8 @@ Recognizing the limitations and benefits of both cloud-based and on-device AI mo
 
 ### [Apple Intelligence](https://developer.apple.com/apple-intelligence/)
 
+![Apple Intelligence Workflow](/images/future-ai-ondevice/apple-intelligence-workflow.jpeg)
+
 Apple Intelligence exemplifies a hybrid approach that leverages the strengths of both on-device and cloud-based AI models. 
 
 This strategy balances on-device models for immediate processing with cloud-based models for complex tasks, enhancing functionality while safeguarding privacy.
@@ -141,6 +148,8 @@ For example, voice commands and simple tasks can be handled locally on the devic
 Meanwhile, more resource-intensive operations, such as advanced natural language processing, are offloaded to cloud servers, maximizing computational efficiency.
 
 ### [Google ASTRA](https://deepmind.google/technologies/gemini/project-astra/)
+
+![Google Astra](/images/future-ai-ondevice/google-astra.png)
 
 Google's Project Astra aims to utilize both on-device and cloud-based models to deliver its advanced AI capabilities. 
 
