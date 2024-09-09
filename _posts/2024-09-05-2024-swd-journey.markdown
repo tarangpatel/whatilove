@@ -148,6 +148,18 @@ Soft skills are related to how you interact with colleagues, solve problems, and
 
 Emotional intelligence (EI) can significantly impact team dynamics in software engineering, enhancing collaboration, and productivity, better stress management, improved leadership and overall project success.
 
+### Leveraging AI
+
+Of course, no article shall finish without mentioning AI. That’s because AI has opened up gates to many possibilities of learning.
+
+Use OpenAI, Claude or Gemini to create a learning path for you. Use Perplexity to find learning resources based on your learning path.
+
+Use CoPilot or Codium to help you learn and develop applications by leveraging AI for code generation and suggestions.
+
+These AI tools leverage LLMs for which you need to know what are prompts and how to write better prompts to get the best results. Here is a nice comprehensive guide on [prompt engineering](https://www.promptingguide.ai/).
+
+There are many articles written on it hence I will not go into detail over here.
+
 ### Conclusion
 
 The journey to becoming a successful software developer is unique for everyone. Whether you’re starting in your teens or transitioning later in life, the key is to remain curious, adaptable, and committed to continuous learning. By balancing technical skills with soft skills and emotional intelligence, you’ll not only survive but thrive in the ever-evolving world of software development.
