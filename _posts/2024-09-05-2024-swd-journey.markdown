@@ -4,7 +4,7 @@ subtitle: A Guide for All Ages
 categories: [Software Development, Career, Growth, Success, Programming, Share expereince, share knowledge]
 tags:
   [Software Development, Career, Growth, Success, Programming, Share expereince, share knowledge]
-image: /images/07.jpg
+image: /images/embarking-journey.jpg
 ---
 
 ## Introduction
