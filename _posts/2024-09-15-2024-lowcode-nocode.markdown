@@ -94,19 +94,19 @@ These platforms cater to different needs and skill levels, from citizen develope
 In summary, low-code and no-code platforms are transforming how we approach software development. They are not only valuable for quick projects or startups but also offer significant benefits for enterprises seeking to streamline their operations and empower their teams. As these platforms continue to evolve, their role in the technology landscape will likely expand, offering even more opportunities for innovation and efficiency.
 
 ### Resources
-[1] https://thectoclub.com/tools/best-low-code-platform/
-[2] https://radixweb.com/blog/low-code-no-code-backend-platforms
-[3] https://www.techtarget.com/searchsoftwarequality/definition/low-code-no-code-development-platform
-[4] https://kissflow.com/low-code/low-code-vs-no-code/
-[5] https://www.pcmag.com/picks/the-best-low-code-development-platforms
-[6] https://www.fdmgroup.com/news-insights/low-code-no-code/
-[7] https://www.nic.in/blogs/understanding-low-code-no-code-lcnc-platforms/
-[8] https://www.ibm.com/topics/low-code
-[9] https://kissflow.com/low-code/low-code-vs-no-code/
-[10] https://www.techtarget.com/searchsoftwarequality/definition/low-code-no-code-development-platform
-[11] https://www.nic.in/blogs/understanding-low-code-no-code-lcnc-platforms/
-[12] https://www.fdmgroup.com/news-insights/low-code-no-code/
-[13] https://www.ibm.com/topics/low-code
-[14] https://thectoclub.com/tools/best-low-code-platform/
-[15] https://www.microsoft.com/en-us/power-platform/products/power-apps/topics/low-code-no-code/low-code-no-code-development-platforms
-[16] https://en.wikipedia.org/wiki/Low-code_development_platform
+- https://thectoclub.com/tools/best-low-code-platform/
+- https://radixweb.com/blog/low-code-no-code-backend-platforms
+- https://www.techtarget.com/searchsoftwarequality/definition/low-code-no-code-development-platform
+- https://kissflow.com/low-code/low-code-vs-no-code/
+- https://www.pcmag.com/picks/the-best-low-code-development-platforms
+- https://www.fdmgroup.com/news-insights/low-code-no-code/
+- https://www.nic.in/blogs/understanding-low-code-no-code-lcnc-platforms/
+- https://www.ibm.com/topics/low-code
+- https://kissflow.com/low-code/low-code-vs-no-code/
+- https://www.techtarget.com/searchsoftwarequality/definition/low-code-no-code-development-platform
+- https://www.nic.in/blogs/understanding-low-code-no-code-lcnc-platforms/
+- https://www.fdmgroup.com/news-insights/low-code-no-code/
+- https://www.ibm.com/topics/low-code
+- https://thectoclub.com/tools/best-low-code-platform/
+- https://www.microsoft.com/en-us/power-platform/products/power-apps/topics/low-code-no-code/low-code-no-code-development-platforms
+- https://en.wikipedia.org/wiki/Low-code_development_platform
