@@ -1,9 +1,9 @@
 ---
 title: Curious case of Low-Code/No-Code Platforms
 subtitle: A brief Overview
-categories: [Software Development, Career, Growth, Success, Programming, Share expereince, share knowledge]
+categories: [Low Code, No Code, LCNC Platform, Low-Code/No-Code, Software Development, Internal Tooling, Rapid Prototype]
 tags:
-  [Software Development, Career, Growth, Success, Programming, Share expereince, share knowledge]
+  [Low Code, No Code, LCNC Platform, Low-Code/No-Code, Software Development, Internal Tooling, Rapid Prototype]
 image: /images/lowcode.png
 ---
 
