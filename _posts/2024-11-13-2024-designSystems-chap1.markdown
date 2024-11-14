@@ -1,6 +1,6 @@
 ---
-title: The Missing Piece in Mobile Development
-subtitle: Design Tokens — Chapter 1
+title: The Missing Piece in Mobile Development - Design Tokens
+subtitle: Chapter 1
 categories: [Mobile development, Design systems, UI consistency, Mobile app design, iOS development, Android development, Design system tools, Storybook, Figma plugins, UIKit customizations, Material Design overrides, Design debt, Pixel-perfect consistency, Design handoff, Styled-components, Design guidelines, Design graveyard, Component libraries, Dark mode implementation, Banking app UI, Design review meetings]
 tags:
   [Mobile development, Design systems, iOS development, Android development, Design system tools]
@@ -81,9 +81,9 @@ Brad Frost suggests a [three-tiered model](https://bradfrost.com/blog/post/the-m
 > **Tier-3:** Tokens are specific to components and link to Tier-2 tokens.
 
 Example:
-Tier 1: _green.50 = #27ae60_
-Tier 2: _theme.brand.color.background = {green.50}_
-Tier 3: _button.primary.background.color = {theme.brand.color.background}_
+- Tier 1: _green.50 = #27ae60_
+- Tier 2: _theme.brand.color.background = {green.50}_
+- Tier 3: _button.primary.background.color = {theme.brand.color.background}_
 
 Token’s naming structure should describe their purpose and context. It should be easy to understand. The naming convention should be documented and communicate with development team.
 
@@ -149,9 +149,9 @@ _Stay tuned…_
 References:
 ===========
 
-[1] [https://spectrum.adobe.com/page/design-tokens/](https://spectrum.adobe.com/page/design-tokens/)
+[1][https://spectrum.adobe.com/page/design-tokens/](https://spectrum.adobe.com/page/design-tokens/)
 
-[2] [https://uxdesign.cc/supercharge-your-design-system-with-design-tokens-55044fa29142](https://uxdesign.cc/supercharge-your-design-system-with-design-tokens-55044fa29142)
+[2][https://uxdesign.cc/supercharge-your-design-system-with-design-tokens-55044fa29142](https://uxdesign.cc/supercharge-your-design-system-with-design-tokens-55044fa29142)
 
 [3][https://uxplanet.org/design-tokens-a-design-system-superpower-dab07a5f0035](https://uxplanet.org/design-tokens-a-design-system-superpower-dab07a5f0035)
 
