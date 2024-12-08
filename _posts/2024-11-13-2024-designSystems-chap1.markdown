@@ -4,7 +4,7 @@ subtitle: Chapter 1
 categories: [Mobile development, Design systems, UI consistency, Mobile app design, iOS development, Android development, Design system tools, Storybook, Figma plugins, UIKit customizations, Material Design overrides, Design debt, Pixel-perfect consistency, Design handoff, Styled-components, Design guidelines, Design graveyard, Component libraries, Dark mode implementation, Banking app UI, Design review meetings]
 tags:
   [Mobile development, Design systems, iOS development, Android development, Design system tools]
-image: /images/DesignSystems/designSystems.png
+image: /images/DesignSystems/designSystem-token.png
 ---
 
 The design step is a crucial phase within the overall design process, where designers shape the visual identity, interaction, and user experience of a product or application. This step involves a series of interconnected stages, each playing a vital role in the creation of a cohesive and consistent design system.
